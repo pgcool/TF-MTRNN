@@ -1,0 +1,1153 @@
+2634 : u-loc o b-peop i-peop l-peop o o o o o o u-loc o o o o o o o o o o o o o o o o o o o o o o o o o o o o o u-loc 
+5013 : o u-peop o u-peop o o o o o o o o o o o o o o o o o o o o o o o o 
+3082 : o o o o o o o o o o u-loc u-org o o b-other l-other b-other i-other l-other 
+1079 : o b-loc i-loc l-loc o o o o o o o o o o o o o o o b-loc l-loc o o o o o o o o b-peop l-peop o 
+2759 : o o o o o o o o o o o o b-peop l-peop o o o o b-org i-org i-org l-org 
+4428 : b-loc l-loc o o o o o u-loc o o o o o o o o o o o o 
+5346 : o o o o o o b-peop i-peop l-peop o o o b-loc i-loc i-loc l-loc o 
+494 : b-peop l-peop o o o o o b-org i-org i-org l-org o o o o b-peop l-peop o o o o o o o o o o o o o o o 
+5287 : o o o o o o b-peop l-peop o o o o o b-loc l-loc o o o o o o o o o o o o u-other o o o o o o u-other o o o o o o o u-other o o o o o o o o o o o o o o o u-other o o o o 
+410 : o o o o b-org l-org o b-peop i-peop l-peop o o o o o o o o o o o o o o o o b-loc i-loc l-loc o o o o o 
+5268 : o o o b-loc i-loc l-loc o o o o o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+2936 : b-org l-org o o b-peop l-peop o o o b-loc l-loc o o o o o o b-other i-other l-other o o 
+2741 : b-loc l-loc o u-loc o u-org o 
+3887 : o o o u-loc b-other l-other u-org o o o o o o o o o o o o o o o o b-loc l-loc o u-loc o o b-loc i-loc l-loc o o o o o o o o o 
+148 : b-loc l-loc o u-loc o u-loc o 
+3256 : u-loc b-org i-org l-org 
+1707 : u-loc o u-loc o u-org o 
+3790 : u-org o b-peop i-peop l-peop o o o o o o o o o o o o o o o o o o o o o o o o o o 
+293 : u-org o o b-peop l-peop o o o o o o o o o o o o o o o o o o u-other o o o o o b-other l-other o o o o o o o b-other l-other o o o o o o 
+5040 : u-peop o o o b-peop i-peop l-peop o o u-loc o u-other o o o o 
+5258 : u-loc o b-peop l-peop o u-other o o o o o b-loc l-loc o o o o o o o o o o o o b-peop i-peop i-peop l-peop o o o o o u-other 
+5370 : u-loc o b-peop l-peop o o o o o u-other o o o o o o u-loc o o o o o b-loc l-loc o 
+2801 : o b-org i-org l-org o b-org i-org i-org l-org o b-loc l-loc o o o o o o o o b-peop l-peop o o o o o o o o o o o 
+5355 : o o o o b-peop l-peop o o o b-loc i-loc l-loc o 
+137 : b-loc l-loc o u-loc o u-loc o o b-loc l-loc o u-loc o 
+4229 : o u-loc b-org l-org o o b-other i-other l-other o o 
+1206 : o o o o o o o u-loc o o o o o b-peop l-peop o o o o o o o o o o o o o o o o o o o o 
+1703 : b-loc l-loc o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+1959 : o o o o o b-loc l-loc o o b-other l-other o o o o o o o o o o o o o o b-peop l-peop o o o 
+1367 : o o o o o o o o o o o o o u-org o u-loc o o b-org l-org o o o o o u-org o o o o o o o o o o o o o o o 
+5207 : o u-loc o o o o o b-other l-other o u-other o o o o o o o o o o o o o b-peop l-peop o o o b-peop i-peop l-peop o b-peop i-peop i-peop l-peop o o o 
+3941 : o u-loc u-org o o b-other i-other l-other o o 
+1624 : b-org i-org l-org o u-loc o o o o o o o o o o o b-peop l-peop o o o o 
+5380 : o o o u-other o o o o o o o o o u-other o o o o b-peop i-peop l-peop o o o o o o b-loc l-loc o o o o b-loc i-loc l-loc o 
+1045 : o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o o b-other l-other o u-loc o u-loc o o o o o o 
+5070 : b-peop i-peop l-peop o o o o o o o o o o o o o u-peop o u-loc o u-other o o o o 
+865 : u-loc o u-loc o u-org o 
+5225 : o o o u-peop o o o o o o o o o o u-peop o o o b-peop i-peop i-peop l-peop o o o o o o o o 
+2459 : o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o o u-org o o 
+5271 : o o o o o o o o o o o o u-other o o o u-loc o o o o o o o b-peop l-peop o o o o o o o o o o 
+5420 : b-other l-other o o o o o o o o o o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o o o o o o u-loc o 
+4232 : o o o o o b-org l-org o o o o o o o o o o o b-peop i-peop l-peop o o o o o o o b-org i-org l-org o u-org o o b-peop i-peop l-peop o o o o o o o b-other l-other o b-other l-other o o b-peop i-peop l-peop o o o o o o o o o o o o o b-peop i-peop l-peop o o o b-loc l-loc o o o o o o b-other l-other o b-other i-other i-other l-other o 
+5261 : b-peop i-peop l-peop o o o b-loc i-loc l-loc o o o o o o o o o 
+1779 : o o o o b-org l-org o u-loc 
+953 : b-peop l-peop o o o b-org i-org l-org o o o o u-loc o u-loc o o o o o o o o 
+2895 : o o o o o o o o o o o o o u-org o b-peop l-peop o 
+3881 : o o o o o o b-loc l-loc o o o b-org l-org o o o o o o o o o o o o 
+2593 : u-peop o o o o o o o b-org l-org o o b-org i-org i-org i-org l-org o o o o o b-org l-org o o o o o o o o o u-loc o o o o o o o o 
+3076 : o b-peop i-peop l-peop o o o o u-org o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+4051 : o o o o o o o o o o o o o o u-loc u-org o o u-org o o o o o o o o o o o o o o o o o o 
+1855 : o o o o o o o o o o o o o o o o o o o o b-org l-org o b-peop l-peop 
+2933 : o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o u-org o o b-loc i-loc l-loc o u-loc o b-loc l-loc o 
+5307 : o o o o b-peop l-peop o o o b-loc i-loc l-loc o 
+5336 : o o o o b-peop l-peop o o o b-loc i-loc i-loc l-loc o 
+5034 : o o o o o o o o o o b-peop i-peop l-peop o o o o b-peop l-peop o o o u-other o b-loc i-loc l-loc 
+2695 : o o o o o o o o o o b-loc l-loc o u-loc o o u-loc o u-other o o o o o o o o o o o o o u-peop 
+1998 : o o o o o o o o o o o o o o o o o b-peop l-peop o o o u-org o o o o o o o o o o o 
+1784 : o o o o o o o o o o o o o o o o b-peop l-peop o o u-org o 
+5030 : o u-peop o o o o o o o o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o u-other o o o o b-peop i-peop i-peop l-peop o 
+2581 : o u-loc o o o o o o o o o o u-loc o o o o o o o o o o o o o u-loc u-loc 
+1759 : o o o o o o o o b-peop l-peop o o o o o o u-loc o o b-peop l-peop o o o o o o o o o o o o o b-loc l-loc 
+5025 : b-peop i-peop i-peop l-peop o o o o o o o o o o o o o o u-loc o o o b-peop i-peop l-peop o o o o o b-peop i-peop i-peop l-peop o 
+2323 : u-org o o o o o o o o b-org i-org l-org o u-loc o u-loc o o o o o o b-org l-org o u-loc o u-loc o o o o o o o o 
+5129 : o o o o o o b-peop l-peop o o o o o b-loc i-loc i-loc l-loc o o b-peop l-peop o o o o o o o o 
+2970 : o o o b-peop l-peop o o o o b-org i-org l-org o o o o o o o o o b-other i-other i-other l-other o o o o o b-org l-org o o u-org o 
+1294 : u-org o o o b-loc l-loc o u-loc o o o o o o o o o o o o o o o o o o o o o o 
+5134 : o o o o u-peop o o u-peop o o o o b-peop i-peop l-peop o o o o o o o b-peop l-peop o 
+1311 : u-loc o b-peop l-peop o o o o o o o o o o o 
+2497 : b-loc l-loc o u-loc o u-org o 
+1553 : o o o o o o o o o o o o o o o o o o o u-peop o o o b-org l-org o o b-loc i-loc l-loc o o o o o o o o o 
+3544 : o o o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o o o o b-org i-org i-org i-org i-org l-org o 
+4310 : o o o o o u-loc o o o o o o o o o o o o o u-loc o 
+2946 : o o u-org o b-peop l-peop o 
+627 : o o o o o o o u-loc o o o o o o o o o o o o o o o u-loc o o b-other l-other o o u-loc o o o o o o o o b-other i-other l-other o o o o o o o o o o o o o u-loc o o o o o o 
+1269 : o u-org o o o b-peop i-peop l-peop o o o o o o o o o o o o o o o o o o o o o o o 
+4099 : o o o u-loc o b-other l-other u-loc o o o o o o b-loc l-loc o o o o o o o o o o o o o b-peop l-peop o o o 
+5282 : o o o o b-peop i-peop l-peop o o o b-loc i-loc l-loc o 
+1138 : o o o o o o u-loc o u-loc o o o o o b-org i-org i-org i-org l-org o b-org l-org o u-loc o 
+5303 : o b-peop l-peop o b-loc i-loc l-loc o o o o u-loc o u-loc o u-loc o o b-org l-org o o u-loc o o b-loc l-loc o o o o o o o o o o o u-other o o o b-other l-other o o o o o 
+5203 : u-peop o o o u-peop o o o o o o o o o o 
+5167 : o o o o o o o o b-peop l-peop o o o o o o o o o o o u-peop o o o o o o u-loc o o o o o o o o o o o 
+2700 : o b-peop l-peop o b-org l-org o u-loc o u-loc o o o o o o o o o o o o o u-loc o o o o o o o o o o o o o o o 
+5012 : o o o o o u-peop o o o o o o o o b-org l-org o o o o o o o o o o o o o o o o o u-peop o o o o o o o o u-loc o o o o 
+373 : o u-loc o b-other l-other o o o u-loc o o o o o o o o o 
+1387 : b-loc l-loc o u-org o 
+1254 : o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-org i-org l-org o b-peop l-peop o o o u-loc o 
+3982 : u-loc b-org i-org l-org 
+5219 : u-peop o o o b-peop i-peop l-peop o u-other o o o o o o o o o o o u-other o o o o o 
+2467 : u-org o b-peop l-peop o o o o o o o o o o o o 
+4626 : o b-loc l-loc u-org o o b-other i-other l-other o o o o o o 
+610 : b-org i-org i-org i-org l-org o u-loc o o o o o o o o o o o o o u-loc o u-loc o 
+4309 : o o o o o o o o b-peop i-peop i-peop i-peop i-peop i-peop l-peop o o o o o o b-org l-org o b-peop i-peop i-peop l-peop o o o o o o b-loc l-loc o 
+5445 : u-peop o o o o o o o o o b-loc l-loc o o u-loc o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+3416 : b-peop l-peop o o o o o o o o u-loc o o o u-other o o o o o o u-loc o o o o o o o 
+5150 : o b-org l-org o o b-peop i-peop l-peop o o o o o o o o o u-peop o o b-peop i-peop i-peop l-peop o 
+5479 : o o o o u-peop o o o o u-peop o o u-loc o u-loc 
+207 : o o o b-other l-other o o o o o o o o o o o b-peop i-peop l-peop o o o o o o o o o o u-loc o 
+5371 : o o o o o o o o o o u-other o o o o o u-loc o b-peop l-peop o o o o o o o o b-other l-other o o o u-other o o o 
+4413 : o o o u-loc o b-other l-other o o o o b-peop l-peop o o o u-loc o o o o o o o o o o o o o o o o o o o o o o o 
+1623 : b-org l-org o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o 
+3783 : o o o o o o o o o o o o o o o o o o o o o o o o o o o u-loc o o o o o o u-loc 
+3929 : o u-loc u-org o o b-other i-other l-other o o 
+1952 : o b-org l-org o o o o o o o o o o b-loc i-loc l-loc o o o o b-peop l-peop 
+3981 : o u-loc b-org i-org l-org o o b-other l-other b-other i-other l-other 
+1958 : o o o o o o o o o o o o b-peop l-peop o o o o o o o b-loc l-loc 
+298 : o o o o u-org o b-peop i-peop i-peop l-peop o o o o o o o o o o o o 
+1018 : b-peop l-peop o o o o o o b-org i-org i-org l-org o o b-peop i-peop l-peop o o o o o o o o o o o b-org i-org l-org o o o 
+2274 : o o b-peop l-peop o o o o o o o o o o o o o o o o o o u-other o o o o u-org o o o o o o o o o o o o o 
+5186 : o o o o b-peop i-peop l-peop o u-peop o o o o o o u-peop o o o o b-peop i-peop l-peop o o o o o o o 
+1359 : b-peop l-peop o o o o u-other o o o o o o u-other o u-loc o u-loc o o o o o o b-loc l-loc o 
+1635 : o o o o o o o o o o o o o o o o o b-org l-org o b-peop l-peop o o o o o o o o o o o o o 
+1632 : o o o o o u-org o b-org i-org l-org o u-loc o o o o o o o b-other l-other o o o o b-org l-org o o 
+2988 : o u-peop o o o o o o o o b-peop l-peop o b-org i-org l-org o b-peop l-peop 
+2437 : o u-org o b-peop i-peop l-peop o o b-other i-other i-other l-other o o o b-peop l-peop o b-other i-other l-other 
+52 : o o o o o b-peop i-peop l-peop o o b-org i-org i-org i-org i-org l-org o b-loc i-loc l-loc o o b-peop l-peop o o b-org i-org i-org i-org l-org o o b-loc i-loc l-loc o o o o o o o o o o o o 
+1153 : o o o o b-loc l-loc o o o o o o o o b-loc i-loc l-loc o o u-other o o o o o o o o 
+4560 : o u-loc u-org o o b-other l-other b-other i-other l-other 
+1675 : o o o o o o o o o o o o o o o o o u-loc o o b-loc i-loc l-loc o o o o o b-org l-org o b-other l-other o o o o o o o o o 
+2630 : o o o o o o u-org o o o o o o o o o o o o u-loc o o o b-org i-org l-org o o u-loc o 
+5128 : o u-other o o o o o o o o o u-peop o o o o o o o o b-peop i-peop l-peop o o o o o u-other o o u-other o 
+3712 : u-loc b-org l-org 
+2311 : o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o u-loc o u-loc 
+5180 : o o o o o o o u-peop o o o o u-peop o o o o o o o u-peop o o o o o o o b-peop l-peop o 
+3255 : o o o o u-loc o o o o u-loc b-org i-org l-org o o b-other l-other b-other i-other l-other 
+326 : b-loc l-loc o o o o o o o o o o u-org o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+543 : o o o o o o b-peop l-peop o u-loc o o o o o o o o o o o o o o o o 
+1473 : o o o o o o b-org i-org l-org o o u-loc o 
+3983 : o o o o u-loc o o o o o b-loc l-loc o u-loc o o o o o o o o o o o o b-peop l-peop o o o o o b-org i-org i-org l-org o o o o o o o 
+1929 : o o o o o o o o o o o u-org o b-peop i-peop i-peop l-peop o o o o o o o o o o o o u-loc o o o o o o o o o o o o 
+5117 : o o o o o o o o o b-org l-org o o o o o b-peop i-peop l-peop o o o o o o b-peop l-peop o 
+5222 : o o o o o o o o o o b-peop l-peop o u-peop o o o o b-peop i-peop l-peop o u-loc o 
+5084 : b-peop i-peop i-peop l-peop o o o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o o o o o o o 
+5026 : o o o b-peop i-peop l-peop o o o o o o o o b-peop i-peop i-peop i-peop l-peop o o o o o o o o u-loc o u-other o o 
+5254 : b-peop l-peop o u-other o o o o o b-loc l-loc o o o o o o o o o o o o b-peop i-peop i-peop l-peop o o o o o u-other 
+5392 : b-peop l-peop o o o u-loc o o o 
+5147 : o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o o o b-peop l-peop o o o 
+5076 : u-peop o o o o u-peop o o o o o o o o o o 
+4326 : o o o o o b-other l-other u-loc b-org l-org o o o o o o o o o o b-loc i-loc i-loc l-loc o u-loc o o o o o o u-loc o o o o o u-loc o u-loc o u-loc o o o b-loc l-loc o b-loc l-loc o o o o o o u-loc o o o o o o o 
+5056 : o o o o o o o b-org l-org o o o o b-peop i-peop l-peop o o o o u-peop o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+3900 : o u-loc b-org i-org l-org o o b-other l-other b-other i-other l-other 
+1694 : o o o o o o o o o u-loc o o o o o b-peop l-peop 
+2466 : b-org i-org i-org l-org o o o u-loc o u-loc o b-org l-org o o o o o o o o o o o o o o o o o o o o b-other l-other o o b-org l-org o o o o o o o o 
+5116 : o b-org l-org o o o u-peop o u-peop o o o o o o o o b-org i-org l-org o o o o o o u-loc o 
+3973 : o u-loc u-org o u-loc b-other i-other l-other o o 
+3244 : o o o o o o b-loc l-loc u-org o o b-other l-other b-other i-other l-other 
+2997 : u-peop o u-peop o o o o o u-org o b-org i-org i-org l-org o o o o o o o o o o o o o o o o o o o 
+3996 : o u-loc b-org l-org o o o o o b-other i-other l-other o o o o 
+2586 : o u-other o o o o b-loc l-loc o o o o o o u-loc o o o 
+3048 : o u-peop o o o o u-peop o o o b-org l-org o o o o o o o u-loc o o o o o o o o u-loc o o o o o 
+5340 : o o o o o o o o b-loc l-loc o b-peop l-peop o o o o b-loc i-loc l-loc o 
+614 : o b-peop l-peop o o b-org i-org i-org l-org o o b-other i-other i-other l-other o o o o o b-other l-other o o o 
+5272 : b-peop l-peop o o o u-peop o o o u-loc o o b-peop l-peop o o o o o u-loc o o o b-loc l-loc 
+5149 : u-peop o o u-peop o o o u-peop o o o 
+4204 : u-loc b-org i-org l-org 
+2998 : b-peop l-peop o o o o o u-org o b-org l-org o o o o o o o u-org o o o o o o o o o o o o o o o 
+3377 : b-peop l-peop o u-loc o o o o o o o o o o o o o o o b-loc l-loc o o o o o o 
+2782 : o b-loc l-loc o o o b-other i-other i-other l-other o o b-other i-other i-other l-other o o o o o o o o u-loc o o o 
+4593 : o o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o o o o o o o b-org i-org l-org o 
+129 : o o o o o o o o o o o o o o o o o o o o o o o b-loc i-loc i-loc l-loc o u-loc o 
+5062 : b-peop i-peop l-peop o o o o o o o b-peop l-peop o o o o o o o o o o o b-other l-other o o o o o o o o o o o o 
+2637 : u-peop o o o o o o o o o o u-peop o o o u-peop o o o o o o o o b-org l-org o o o o u-loc o o o o 
+5393 : o o o u-peop o o o o o b-peop i-peop l-peop o o u-loc o o o o o o o o o o o o o o o o o o o o o o o b-peop i-peop l-peop o 
+3087 : o o u-loc o o o o o o u-loc o o b-other l-other o o 
+1421 : b-loc l-loc o u-org o 
+2417 : u-peop o o o o o o b-org i-org l-org o o o o o o o o o o u-org o o o 
+3056 : o o o o o o o o o o b-loc i-loc l-loc o o o o o o o o o o o o o o o o b-peop l-peop o 
+2387 : o o o o o o o o o o o o o u-loc o u-loc 
+663 : b-peop l-peop o o o o o o o b-org i-org l-org o o o o o o o o o o o 
+5237 : u-peop o o o o o o o o b-org i-org i-org l-org o o o o o o o o o o o o o b-org l-org o o o b-peop i-peop l-peop o o u-peop o 
+5054 : o o o o o u-peop o o o o o o o o o o o o o o o o o o o o o o o o o u-other o b-peop i-peop l-peop o b-peop i-peop l-peop o o o o b-peop i-peop i-peop l-peop o 
+3234 : o o o u-loc o b-other l-other o u-org o o o o o o o o o u-loc o o b-org i-org i-org i-org i-org i-org l-org o u-org o o o b-org i-org i-org l-org o u-org o o o o o o o o o u-loc o o o o o o u-org o o o o 
+2453 : b-org i-org l-org o u-loc o o o o b-other l-other o o b-loc l-loc 
+4213 : u-loc b-org l-org 
+2446 : o o o o o o o o o o o o o o o o o o o o b-org l-org o o b-peop l-peop 
+1526 : o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o o o u-org o o o o o 
+1030 : o o b-loc l-loc o o o o o o o o o b-other l-other o b-loc l-loc o o o o o o o o o o o o o o o o o o o o o o o o 
+3525 : o o o o o o o o o o o o o o o o o o o o o o o o o o o u-loc b-org i-org i-org i-org l-org o u-org o o o b-org i-org l-org o o o o o o o o o o o o o o o o 
+5196 : u-loc o o o o o b-peop l-peop o o o b-peop i-peop l-peop o b-peop i-peop l-peop o o u-peop o b-peop l-peop o 
+4387 : o o o o o o o o o o o o o o o u-loc o b-peop l-peop o o o u-loc o o o b-org l-org o o o o o o o o o 
+3974 : u-loc u-org 
+3304 : u-loc b-org l-org 
+5100 : b-peop i-peop l-peop o o o o o o o o o o o o b-peop i-peop l-peop o o o o o o o o o o o o 
+5262 : b-peop l-peop o o o o b-loc i-loc l-loc o o o o o o o o o o o o o o o o o 
+3199 : o o o o o o o o o o o o b-peop l-peop o o o o o o o o o b-org i-org i-org l-org o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+4391 : u-loc b-org i-org l-org 
+2460 : o o o o o o b-other l-other o o o o o o o o b-loc l-loc o b-peop l-peop 
+5249 : u-peop o o o o o o o o b-loc l-loc o o o o o o o o u-peop o 
+1303 : u-peop o o o o o o o o o o o o b-peop l-peop o o o u-org o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+2478 : u-peop o o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o u-org 
+1846 : o o o o o o b-other i-other i-other l-other o o u-loc o o o o o o o o o u-loc o o b-other l-other o o u-loc 
+5238 : o o o o u-other o o b-peop i-peop l-peop o o u-peop o o o o b-loc l-loc o u-loc o o u-loc o o o o o o o o 
+3966 : o o b-org l-org o o o o o o o o o o o o u-loc o 
+2834 : b-org i-org i-org l-org o o b-loc l-loc o o o o b-other l-other o o 
+3942 : u-loc u-org 
+4020 : b-peop l-peop o o u-loc o o o o o o o o o o o o 
+4333 : o o o u-loc o b-other l-other o u-org o o o o o o o o o o b-org i-org i-org l-org o o o o o b-loc l-loc o o u-org o o o b-org i-org i-org l-org o o o o o o o o o o o o o o u-loc o o o o o 
+5020 : u-peop o o o o b-peop i-peop l-peop o o o o o 
+1621 : o b-org i-org l-org o b-loc l-loc o u-loc o o o o o o o o o o 
+807 : o o u-other o o o o o o o o o o o o o o o b-peop l-peop o u-loc o b-peop l-peop o 
+2070 : o o o o o u-org o o u-loc o u-loc o o o o o o o b-peop l-peop o o o o o o o o o b-org l-org o u-peop o o o o o o o o o o o o o 
+143 : b-loc l-loc o u-loc o 
+517 : u-peop o o o o b-peop l-peop o o o o o o o o o o u-loc o u-loc 
+5190 : o u-peop o o o o u-peop o o o o o o u-other o o 
+1315 : b-loc l-loc o u-org o 
+3905 : o u-loc b-org l-org o o b-other l-other b-other i-other l-other 
+661 : b-loc l-loc o u-loc o 
+2508 : u-loc o u-loc 
+3852 : o o o o o u-loc o u-loc o u-loc o u-loc o b-loc l-loc o o o u-loc o o o o o o u-loc o o u-loc o o u-loc o o o o o o o o b-loc l-loc o 
+523 : b-loc l-loc o u-org o 
+2447 : o o o o o o o o o o o o o o o o o o o b-other l-other o o u-loc o o o b-loc l-loc o u-peop o 
+5108 : b-peop i-peop l-peop o o u-peop o o o o b-loc l-loc o 
+959 : b-peop l-peop o o u-org o o o o o o o o o o o o o o o o o 
+470 : o o o u-other u-other o o o b-peop i-peop l-peop o o o u-loc o o o o o o o u-other u-other o o u-org o o o o o 
+2870 : o o b-peop i-peop l-peop o o b-loc i-loc l-loc o u-loc o o o o o o o o o o o o o o o o o o o u-peop o o o o o o o 
+1159 : o o o o b-other l-other o o o o o o o o o o o o o o o o o o o b-peop l-peop o o b-org l-org o o o o o 
+5109 : o o o o o o o o o o u-loc o o o o o o o o o b-peop i-peop l-peop o o o o o b-peop l-peop o 
+5387 : o o o o b-peop l-peop o o o b-loc i-loc l-loc 
+59 : u-peop o o o o o b-org l-org o o o o o o o u-other o o u-peop o o o o o o u-peop o o o o o o o o 
+2377 : o o o o o o u-loc o b-loc l-loc o u-loc o o b-loc l-loc o o u-loc 
+4470 : o o u-org o b-peop l-peop o 
+2704 : o b-peop l-peop o b-loc l-loc o o b-org i-org i-org i-org l-org o o o u-loc o o o o 
+3448 : o o o u-org o o o o o o o o o o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o o o o o o o o o o o o b-org i-org i-org i-org l-org o 
+5364 : o o o o o o o o o o o o o o o o b-peop l-peop o o u-loc o o o o o o b-loc l-loc o o o u-loc o o o o o o o o o o o o o o o o o o 
+5233 : o o o o o o o o o o o o o o o o o o o u-peop o o o o o o o o o o o o o o b-peop i-peop l-peop o o o b-peop i-peop l-peop o o o o o o b-loc i-loc i-loc i-loc l-loc o 
+974 : b-loc l-loc o b-loc l-loc o o o o o o b-other l-other o o o o o o o o o o o o b-org l-org o o o 
+537 : u-loc o u-loc o u-org o 
+5234 : u-peop o o o u-peop o o o o o o o b-peop l-peop o o o o b-peop l-peop o o u-loc o o o o o u-peop o o o o o u-peop o o o o o o o b-peop l-peop o o o o o o o o 
+5348 : o o o o o b-peop l-peop o o o b-loc i-loc l-loc 
+1591 : u-loc o o o o o o o o o o u-peop o o o o o o o o o o o o u-loc o o o o o o o o o o o o u-loc 
+3797 : o b-loc l-loc b-org l-org o o b-other l-other b-other i-other l-other 
+2604 : o o o u-peop o o o o o o b-org l-org o o o o o u-loc o u-loc 
+3908 : o o o o o o o b-org i-org i-org i-org l-org o u-loc o o o b-org l-org o u-loc o u-loc o o o o o b-org i-org l-org o u-loc o o o o o o b-org i-org i-org l-org o u-loc o o o b-org l-org o 
+857 : o o o o o o u-org o o o o o o o o o o u-loc o o o 
+355 : b-org l-org o u-loc o u-org o 
+5096 : o o o o o o o o u-loc o b-peop i-peop l-peop o o o o o o o o o b-peop i-peop i-peop i-peop l-peop o 
+4134 : o u-loc b-org i-org l-org o o b-other l-other b-other i-other l-other 
+5183 : u-peop o o o o o o o o o u-peop o o o o b-peop l-peop o b-peop l-peop o u-loc o o o o o o o o o o o o o o 
+5158 : b-peop l-peop o o o o o o o u-loc o o o o o o o u-peop o o o u-peop o o 
+2829 : u-peop o o o o o b-org i-org l-org o o u-peop o o o o o o o o u-peop 
+902 : o o b-peop l-peop o u-org o o o o b-other i-other i-other l-other o o o 
+3472 : o u-org o o o o o o o o o o o o o o b-peop l-peop o o o o o o o o o o o o o o o b-org i-org i-org i-org l-org o 
+945 : u-peop o u-org o o o o o 
+1070 : o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o b-org i-org i-org l-org o u-loc o 
+5318 : o o o o o o b-loc i-loc l-loc o u-peop o o o o o o o o o o u-other o o o o b-peop l-peop o u-peop o u-peop o o o o o o b-other l-other o o 
+2121 : o u-loc o b-peop l-peop o o o o o u-peop o o o o o o o u-peop o o o o o o o o o o o o o 
+5223 : o o o o o o o o b-loc l-loc o o o o o o o o b-peop l-peop o u-peop o o o o b-peop i-peop l-peop o u-loc o 
+5095 : u-peop o o o o b-peop i-peop l-peop o o o o o 
+278 : o u-loc o b-peop i-peop l-peop o o o o o o o o o o o o o u-loc o o o 
+5576 : o o o o o o o o o o o o o o o o o o u-loc o o u-loc o o o o o 
+5228 : o o o o o o o o o o o b-peop l-peop o b-peop i-peop l-peop o b-peop l-peop o b-peop i-peop l-peop o b-peop l-peop o b-peop i-peop l-peop o b-peop l-peop o b-peop l-peop o b-peop l-peop o u-peop o u-other o u-peop o o o o o b-peop l-peop o o b-peop l-peop o b-peop l-peop o o o b-peop l-peop o o 
+5014 : o o o b-peop i-peop l-peop o o o o b-peop i-peop l-peop o o o o o o o b-loc i-loc i-loc l-loc o o o o 
+5412 : o o o o b-loc l-loc o o b-peop l-peop o o o o o u-loc o o o b-loc l-loc o o o o o o o o o o u-loc o o o o o u-other o o o o o o o o o b-other l-other o o 
+5246 : o o o o o b-peop l-peop o o u-peop o o o b-loc i-loc l-loc 
+3094 : u-loc u-org 
+4480 : o o o o o o b-org l-org b-peop l-peop o o o o o o o o o b-org l-org o o o o o o o o u-other o o o o o b-org l-org o o o o o o o u-org o 
+5292 : o o o o o b-peop l-peop o o b-peop i-peop l-peop o b-loc i-loc l-loc o 
+5394 : o o o o o o o b-peop l-peop o o o o o o o o o o o o o o o o b-peop l-peop o o o o o o o o o o o o u-loc o o u-loc o o b-loc i-loc i-loc l-loc o o u-other o o o o o o o b-loc i-loc i-loc l-loc o o u-other o o o o o o o o o o o u-loc o 
+2320 : o o o o o o o o o o o o o b-peop l-peop o o o o o b-loc l-loc o o u-loc 
+4632 : u-org o o o o o o o o b-org l-org o o b-peop l-peop o o o u-org o o o o o o o o o o o o o o o o o o o o 
+72 : o o o o o o o o o o o o b-org i-org l-org o u-loc o o u-loc o o o b-other l-other o o 
+2995 : u-org o b-org i-org i-org i-org l-org o o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o o 
+2050 : b-peop l-peop o b-peop l-peop o o o u-loc o o o o o o o o o o o o o o b-org l-org o o o 
+5341 : o o o o b-peop i-peop l-peop o o o b-loc i-loc l-loc o 
+5359 : o o o o b-peop i-peop l-peop o o o u-loc o 
+4111 : o o o o o o o b-peop l-peop o o o o u-loc o o o b-org i-org l-org o o o o o o o o o u-loc o o o o o 
+2342 : b-org l-org o b-loc l-loc o o b-org l-org o u-loc o o o o o o o o o o o 
+1714 : o o o b-org i-org i-org l-org o o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o o o o o 
+212 : b-peop l-peop o o o o o b-org i-org l-org o b-peop l-peop o o o o o o o o o o o o o o o o o b-other l-other o o o o o o o o o 
+1883 : o o o o o o o o b-peop l-peop o o o o o b-peop l-peop o o b-peop l-peop o o b-org l-org o b-peop i-peop l-peop 
+5135 : o b-org l-org o o o o o o o o o u-peop o o o o u-peop o 
+4256 : u-loc b-org i-org l-org 
+5048 : b-peop i-peop l-peop o o o o o u-other o o o o o o o b-peop i-peop i-peop i-peop l-peop o o o o o o o o o o b-peop i-peop l-peop o 
+2706 : o b-peop l-peop o b-org i-org i-org i-org l-org o u-loc o o u-org o o o b-other l-other o 
+2958 : o o o o o o o o o o o o o o o o o o u-loc o o o b-org i-org l-org o o o o o o u-loc o o o o o o o o o o 
+3452 : o o o o o o o o o o o o o o o b-peop l-peop o o b-org i-org i-org i-org l-org o o u-loc o b-other l-other o 
+3355 : o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o u-org o 
+2363 : b-peop l-peop o o o o o o o b-loc i-loc l-loc o u-loc o o o o o 
+4179 : o o b-org l-org o b-peop l-peop o o o o o o o o o b-org l-org o u-peop o o b-peop l-peop o o o o o o o o o o o o o o o o o 
+2904 : o o o o b-loc l-loc o o o o o o b-other l-other o b-other l-other o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o b-org i-org l-org o u-org o o b-peop i-peop l-peop o 
+2341 : b-org l-org o u-loc o 
+2893 : o o o o o o o o o o o o o o o o o o o o o o b-other l-other o b-peop l-peop o o o o o o u-org o o o o o o o o o o o o o o o o o 
+141 : b-loc i-loc i-loc l-loc o u-loc o u-loc o 
+3703 : u-peop o o o o o o u-loc b-org l-org o o b-other i-other l-other o o 
+46 : b-peop i-peop l-peop o o b-loc l-loc o b-org i-org l-org o 
+2265 : u-peop o o o o o o o o o o o o o o o u-peop o o o o o b-peop i-peop l-peop o o o o o o o b-org l-org o o o o o o o o o o o 
+3679 : o o o o u-peop o o o b-peop l-peop o u-loc o o o b-org l-org o o b-peop l-peop o o o o b-org i-org i-org l-org o o o o o o o o o o o o o o o o o o o u-loc o o 
+4144 : o o o o o o o o o o o o o o o o o b-peop l-peop o u-loc o o o o o o o o o o o o o o o o o o o o b-other l-other o o o o o o b-other l-other o o o o o o o b-other i-other l-other o 
+5253 : b-peop l-peop o o o o o o u-other o o o b-loc l-loc o o b-peop i-peop l-peop o o u-loc o o o o o o o o o o o o o o o o o o o 
+867 : b-peop l-peop o o b-org i-org i-org i-org i-org l-org o u-loc o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+4394 : o o o o o o o o o o o o o o o o o o o o o o o o b-org i-org l-org o u-loc o o o o o o o o o o o o o o o o o o o o o o o b-org i-org l-org o 
+4463 : o o o o o b-peop l-peop o o o o o u-loc o o o o o o b-loc l-loc o o o o o o o o o u-loc o o u-loc o u-loc o 
+3061 : u-org o o o o o o b-peop i-peop l-peop o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+2232 : u-org o b-peop l-peop o o o o o o o o o o o o o u-loc o o o o o o o b-other l-other o o o o o o o o o o o o o o o o o 
+5289 : o o o b-peop i-peop l-peop o o o o o o b-loc l-loc o o o o b-loc i-loc i-loc l-loc o 
+3820 : o u-loc b-org i-org l-org o o b-other l-other b-other i-other l-other 
+3426 : o o o o o o o o o o o o o o o o b-org l-org o b-peop l-peop o 
+1260 : b-peop l-peop o o o o b-org i-org i-org l-org o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+361 : o o u-loc o u-loc o o o u-loc o u-loc o o b-loc l-loc o u-loc o o o o o o o o o o o o 
+4188 : o u-loc b-org i-org l-org o o b-other l-other b-other i-other l-other 
+989 : o b-peop l-peop o o b-org i-org l-org o o o o o o o o o o o o o o o o o o u-peop o o o o 
+570 : b-peop l-peop o o o o o o o o o o o b-org i-org i-org l-org o 
+480 : u-loc o b-loc l-loc 
+2325 : u-org o o o o o o o o o o o o o o o o o u-loc b-peop l-peop o o o o o 
+2386 : o o o o o o o o o o o o o u-loc o u-loc o o o o o u-loc o u-loc 
+389 : u-loc o u-loc o o o 
+5285 : o o o o o b-peop i-peop l-peop o o o o o u-loc o o o o o o o o o o o o o o b-loc l-loc o o o o o o o o o u-peop o b-peop l-peop o b-peop l-peop o o o o o o o o o o 
+68 : o b-other l-other o o u-peop o o o o o b-peop l-peop o o o o u-loc o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+5086 : o o o b-peop i-peop l-peop o o o o b-peop i-peop l-peop o o o o o o o b-loc i-loc i-loc l-loc o o o o 
+1862 : u-loc o u-loc o u-org o 
+5092 : u-peop o o o o o o o o o o o o o o o o o u-peop o o o o o o o o o u-other o o o o 
+1104 : u-peop o o o o o o o o o o o o o o o o o o o o o o b-org l-org o o o o o b-loc i-loc l-loc o b-loc l-loc 
+5405 : b-peop l-peop o o o o o o u-other o o o o o o o o o o b-loc i-loc l-loc o o o o o o o o o o o o 
+1630 : o o o o o o o o o o o o o o o o o o o b-other l-other o o u-loc o o o b-loc l-loc o u-org o b-peop l-peop o 
+5029 : u-peop o o o o o u-loc o o o b-peop i-peop l-peop o o o o o o o o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o o o o o o o b-loc i-loc l-loc o 
+37 : o o o o o o o o o o o o o o u-loc o o o o o o o u-peop o o o o o u-loc o o o o o o o o o 
+2953 : u-loc b-other l-other o u-org o o u-loc o o o o o o o o b-peop l-peop o o b-peop l-peop o o o o o o o o o o 
+2458 : u-org o b-peop l-peop o o o o o o o o o o o o o o o 
+3184 : u-loc b-org l-org 
+1257 : b-peop l-peop o o u-org o o o o o o o o u-org o b-org l-org o u-org o u-org o u-org o u-org o u-org o u-org o u-org o b-org l-org o 
+4112 : o o o o b-org i-org l-org o o o o o o o o o o u-loc o 
+5293 : o o b-peop l-peop o o o o o o o o o o o u-loc o o o o o o o o o 
+3093 : b-peop l-peop o u-loc o o o o o u-loc u-org o o b-other l-other b-other i-other l-other 
+3321 : u-loc u-org 
+4106 : o u-loc b-org i-org i-org l-org o o b-other l-other b-other i-other l-other 
+1652 : b-peop l-peop o o u-org o o u-loc o o o o o u-loc 
+958 : b-peop l-peop o o u-org o o o o o o o o o o o o o o o o o 
+1642 : o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o o b-org i-org i-org i-org i-org i-org l-org o 
+5256 : b-peop l-peop o u-other o o o o o o o o b-loc l-loc o o o o o o o o o o o o o o o o 
+5057 : o o o o o o o u-loc o o o o o o o o o o u-other o o o o o o o o o o b-peop i-peop l-peop o o o o b-peop i-peop i-peop l-peop o o o o o o o o o o o o o o 
+1884 : o o u-org o o o o b-peop l-peop o o o o o o o o o o o o o o o o u-other b-peop l-peop o o o o o o o o o o o o b-org i-org l-org o b-peop l-peop 
+2102 : o b-peop l-peop o o o o o o o o o o o o o o o o o o o o u-loc o 
+3402 : o u-loc o u-loc o o o o o o u-loc o o o o o o o o u-org o o o o o 
+1432 : o o o o u-org o o o o o b-peop l-peop o o o b-org i-org i-org l-org o o b-peop i-peop l-peop o o o o o o o o o o 
+5195 : o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o o o u-loc o o b-peop l-peop o o o 
+516 : u-peop o o o o o o o o o o o b-loc l-loc o u-loc o o o o o o o o o o o o o o 
+4189 : u-loc b-org i-org l-org 
+3733 : u-loc b-org l-org 
+5006 : o o o o o o o o o o o b-peop i-peop i-peop i-peop l-peop o b-peop i-peop l-peop o o o o o o o o o u-loc o 
+2547 : o u-loc o o b-other i-other i-other l-other o o o o o o o o o o o u-loc o o o o o o o o 
+2921 : o o o o b-org i-org i-org l-org o o o b-loc l-loc o o b-other l-other o o o o b-other i-other l-other o o o o u-loc o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o u-org b-org i-org i-org i-org l-org o o o o o o o o o o o o o o o o o o o o b-loc l-loc o o o o o o u-org o o o o o o o o o o o o o o o o o o o 
+5365 : o u-other o o o o o o o o u-loc o b-peop l-peop o o o o o o o o o o o o o o o o o o o o 
+2332 : u-loc o u-loc 
+5126 : o o o o o o u-loc o b-peop l-peop o o o b-peop i-peop l-peop o o o o o b-peop l-peop 
+1114 : b-peop i-peop l-peop o o o o u-loc o o o o o o o o o o o b-peop i-peop l-peop o o o o u-loc o 
+5214 : o o o o o o o o o o u-peop o o b-peop l-peop o o o b-loc l-loc o b-peop l-peop o o o o u-peop o o o o o u-org o u-org o o o b-peop i-peop l-peop o o o o o o o o o o o o o o o o o o o 
+5401 : b-peop i-peop l-peop o o o o o o u-other o o o o o b-loc i-loc l-loc o 
+1540 : o u-peop o o o u-peop o o o u-peop o o o o u-peop o o o o o o o o o o o o o o o o o o o o o b-loc l-loc o o u-loc o o o o u-other 
+2160 : u-loc o o o o o b-loc l-loc o o b-other i-other i-other l-other o o o o o o o o o o o 
+287 : o u-loc o u-loc o o o o u-org o o o b-other l-other o o o o o u-loc o o o o o o 
+1990 : o o o u-org o o b-org i-org l-org o o b-loc l-loc o o o o u-loc o o u-loc o o o o u-loc o o 
+3190 : b-peop l-peop o o o o o o o o o o u-org o o o o o o o o o o o o o o o o o o o 
+1017 : o u-other o o o o o o o o b-other i-other i-other i-other l-other o o b-other l-other o o o b-other i-other i-other l-other o o o o b-org i-org l-org o u-loc o u-loc o o o o b-other i-other i-other l-other o o o u-loc o 
+1078 : o o o o o o o o o o o o o o o o o o b-other l-other o o b-org i-org l-org o b-peop i-peop l-peop o 
+2245 : o b-peop i-peop l-peop o o o o o o b-org i-org i-org i-org i-org l-org o o u-org o o o o o o o o o o o o o 
+5298 : o o o o o o o o b-loc l-loc o b-peop i-peop l-peop o o o o b-loc i-loc l-loc o 
+3132 : u-loc o o o b-peop l-peop o o o o u-loc o o o o o o u-peop o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+1272 : u-org o b-peop l-peop o o o o o o o o o o o o o o 
+1331 : b-peop l-peop o o o o o o o o o o o o o o o o b-loc l-loc o o 
+3514 : o u-loc o o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o o u-other o o o b-org i-org i-org i-org i-org l-org o 
+3850 : o u-loc b-org l-org o o b-other l-other b-other i-other l-other 
+10 : u-loc o o o o o o b-peop l-peop o o o o o o o u-other o o o o o o o o o 
+5110 : o o o b-peop l-peop o o o o b-peop l-peop o o o o 
+4166 : u-org o b-peop i-peop i-peop l-peop o o o o o o o o o o o o o o b-other l-other o o o o o o o o o o o o o o o o o 
+3786 : o b-loc i-loc l-loc b-org l-org o o b-other i-other l-other o o 
+2963 : o o o o o o o o o o o o o o o u-loc u-org b-peop l-peop o o o u-peop o o o o o u-peop o o o o o 
+1562 : u-peop o b-peop l-peop o o o o b-loc l-loc o u-loc o o o o o o o o o o o o o o o o o 
+5403 : b-peop l-peop o o u-other o o o o o u-loc o o o o o o o o o b-loc i-loc i-loc l-loc o o o o o o o o 
+3299 : o o o o o o o o o o o o b-org l-org o b-peop l-peop o o o b-other i-other l-other 
+5312 : o o o u-other o o o o u-other o o o o o o o o b-peop l-peop o o o b-loc i-loc l-loc o 
+1790 : o o o o b-other l-other o u-other o o o o u-loc o u-loc 
+2027 : b-loc l-loc o u-loc o u-org o 
+2883 : o o o o o o o b-peop l-peop o u-loc o u-loc o o o o u-peop o o o o o o 
+4444 : o o o o o o o o o o o o o o o o o o u-loc o o o o o o o o o o o o o o o o o o o o o u-peop o o o o o o b-org i-org l-org o o o o o o o o o o o o 
+1116 : o o o o o b-other l-other o o o o b-peop l-peop o o o o o u-loc o o b-peop l-peop o 
+5243 : o o o o o o o o u-org o o o o o o o o o o o o b-other i-other l-other o o b-peop i-peop l-peop o o o o o o b-peop l-peop o o o o o o b-peop i-peop i-peop i-peop l-peop 
+2161 : u-loc o o o o o o o o o o o o o o o o o o o b-loc l-loc o o o o o 
+1505 : o o o o o o o o o o b-org l-org o b-peop i-peop l-peop 
+2580 : u-loc o u-loc 
+5164 : u-peop o o o o o o o o u-peop o o o o o u-org o o o o u-loc o o 
+2940 : o o o o o o o o u-org o b-peop i-peop l-peop o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+5189 : u-peop o o o o o o o o o u-peop o o o o o o o 
+5004 : o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o o o o o o o u-peop o o u-other o o o o 
+820 : o b-peop l-peop o o o o o o o o o o o o o b-org l-org o 
+5032 : o o o o b-peop i-peop l-peop o o o o b-peop i-peop i-peop i-peop l-peop o o o o o o o o b-org l-org o o o o o o o o o o o o o o o o o o o o o o o o u-peop o 
+1381 : o o o o o o o o o o o o o o o o b-other l-other o b-other l-other o o o o o o b-other i-other i-other i-other i-other l-other o o o o o o u-loc o u-loc o 
+2792 : u-loc o o o o o o b-peop l-peop o o o o o o o o o o o o b-other l-other o o o o o o u-loc o o o o o o o o o 
+5411 : o o o o o o o u-org o o o o o o o o o u-other o o o o b-peop l-peop o o b-loc l-loc o o o o b-peop l-peop o o o o o o o o o o o o o o o o o o o b-other l-other o o o o o o o o o o u-other o 
+5185 : b-peop i-peop i-peop i-peop i-peop l-peop o u-other o o o o o o o o o b-peop i-peop i-peop l-peop o o o o b-peop i-peop l-peop o o u-loc o o b-peop l-peop o o o 
+2521 : u-loc o b-loc l-loc o u-org o 
+3800 : b-org l-org o b-peop i-peop l-peop o o o o o o o o o o o o o b-peop l-peop o o o o o o o o o u-org o o o o o o o o o o o o o o o o o o o o o 
+132 : b-loc l-loc o u-loc o u-loc o 
+1160 : o o o o o o o o o o o o o o b-peop l-peop o o o o o o b-org l-org o o o o o 
+5235 : o o o o u-peop o o o o o o b-other l-other o o o o o o o o o o o o o o o o o o o o o o o o o o o o o u-peop o o o o o o b-peop l-peop o b-peop l-peop o o o o o o o b-peop l-peop o o o b-org l-org o 
+3336 : b-loc l-loc b-org l-org 
+4150 : o o o b-peop i-peop i-peop l-peop o o o o b-peop l-peop o o o o b-org i-org l-org o u-org o o o b-other l-other o o o o o o o o o o o o o o o o o o o o o o o b-org i-org l-org o o o o o b-org i-org l-org o o o o o b-org i-org l-org o 
+3559 : o o o u-loc o b-other l-other o o o o o b-peop l-peop o o o o b-loc l-loc o b-other l-other o o o o o o u-loc o o 
+469 : u-loc o u-loc o u-org o 
+2120 : o b-peop l-peop o u-loc o o o o o o o o o o o o o 
+4287 : o o o o b-loc l-loc o u-loc o o o o o o o o o o u-loc o b-peop i-peop i-peop l-peop o 
+1583 : u-loc o b-peop l-peop o o o o o o u-loc o u-peop o o u-other o o o o o o o o o o o o o o o o 
+1713 : b-peop l-peop o o u-loc o b-loc l-loc o o u-loc o 
+5199 : o o o o o o b-peop i-peop l-peop o o o o b-peop l-peop o o o o o o u-other o o u-peop o o 
+1674 : o o o o o o o o b-loc i-loc l-loc o o o o o o u-loc o o b-loc l-loc o b-other l-other 
+5291 : o o o o o o b-peop i-peop l-peop o o o b-loc i-loc i-loc l-loc o 
+147 : b-loc i-loc l-loc o u-loc o 
+5290 : o o o o o o o b-peop l-peop o o o o o o b-loc l-loc o o o o b-loc i-loc i-loc l-loc o 
+2790 : u-loc o u-loc o u-org o 
+3711 : o o o o o o o o o u-loc b-org l-org o o b-other i-other l-other o o 
+4109 : o o o o o o o o o b-org i-org l-org o o b-org l-org o o u-loc o o o o o o o o b-org l-org o o o o o o o o o o o o o u-loc o 
+821 : o o o o o u-org o o o o o o o b-peop l-peop o o o o o o o u-loc o o o o o o o o b-other l-other o b-other l-other o b-other i-other i-other l-other o o o 
+1456 : b-org l-org o o o o b-loc i-loc l-loc o o o o o b-loc l-loc o b-loc l-loc o b-loc l-loc o 
+5283 : o o o o o b-peop l-peop o o o b-loc i-loc i-loc l-loc o 
+210 : u-peop o b-peop i-peop l-peop o b-other i-other i-other l-other o o u-loc o u-loc o o o o o o o 
+2005 : b-org i-org i-org l-org o b-peop i-peop l-peop o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+5071 : u-peop o o o o o o o b-peop l-peop o 
+5308 : o o o b-peop i-peop l-peop o o o o o b-org l-org o o o o b-loc i-loc l-loc o 
+5001 : o b-org l-org o o b-peop i-peop l-peop o o o o o u-peop o o o o o o o o o o o u-other o o o o 
+5390 : o o o u-other o o o o u-other o o o o o o b-peop l-peop o o o b-loc i-loc l-loc o 
+5038 : o o o o o b-peop i-peop i-peop l-peop o o o o o b-org l-org o o b-peop i-peop i-peop l-peop o o o o o o u-org o o o o o o o o o o o o b-peop i-peop l-peop o o o o 
+5175 : o u-other o o o o o u-peop o o o u-peop o o b-org l-org o b-peop l-peop o o o o o o o o o o o o b-peop i-peop l-peop o o o o o o o b-peop i-peop l-peop o o o o o b-peop i-peop l-peop o o o o u-loc o 
+5339 : o o o o b-peop l-peop o o o o o o o o o o o o o o o b-loc i-loc l-loc o 
+806 : o b-peop l-peop o o b-org i-org i-org l-org o u-loc o o o o o o o o o o o o o o o o o o o o o o o o o o 
+1489 : o o o o o o b-loc l-loc o o o o o o o o o u-loc o o o o o o o o o 
+2306 : b-peop l-peop o o o o o b-loc l-loc o u-loc o o o o o o o o o o o o o o o o o o o o o o b-peop i-peop l-peop o o o 
+2785 : b-peop i-peop l-peop o o o o b-org i-org l-org o o o o o o o u-other o o o o o o o o o o u-other o o o u-loc 
+2340 : u-peop o o o b-org l-org o u-loc o u-loc o 
+5184 : o u-other o o o o o o o o b-peop i-peop i-peop l-peop o o o o o o o b-peop i-peop l-peop o o o 
+3361 : u-loc b-org i-org l-org b-other i-other l-other o o o o o o o 
+4484 : o o u-peop o o o o o o o o o o o o o o o o o o o o b-org l-org o o b-peop l-peop o o o o o o o o o 
+2197 : u-loc o u-loc o u-org o 
+1579 : u-peop o o o o o o b-loc l-loc o o o b-org l-org 
+5194 : b-peop i-peop l-peop o o o o o u-other o o b-peop l-peop o o o o u-other o o o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o o 
+1950 : o o o o o o o o o o o o o b-peop l-peop o o o o o o b-loc l-loc 
+1671 : o o o o o o o o o o o o o o o o o o o o o o o o o o b-org i-org i-org l-org o o o b-peop i-peop l-peop 
+1076 : o b-loc l-loc o o o o o o o b-other l-other o o o o o o o o o o o u-loc o o b-org i-org i-org l-org o o 
+3866 : o u-loc b-org i-org l-org o o b-other l-other b-other i-other l-other 
+1360 : o o o o b-org l-org o u-loc o b-other i-other i-other l-other o 
+4566 : u-loc b-org l-org 
+3295 : u-loc u-org 
+5059 : u-peop o o o o o o o o o o o u-peop o o o o u-other o o u-other o b-loc i-loc l-loc o o u-other o o o o o o o b-peop i-peop i-peop l-peop o o o o u-other o o o o o 
+3626 : o o o o o o o o o o o b-loc l-loc o o o o o o o o b-loc l-loc o 
+5161 : u-loc o o o o u-loc o o o o o o o o o o o o b-peop i-peop i-peop l-peop o o o o b-peop l-peop o o o o o o o b-other l-other o o o o o o o o o o o o u-loc o o o o o o 
+5133 : o o b-peop i-peop l-peop o u-peop o o o o o o o o o 
+161 : u-loc o o b-peop i-peop l-peop o o u-loc o o b-peop l-peop o o o o u-peop o o o o o o o o o o o b-peop i-peop l-peop o 
+2694 : o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o b-org i-org l-org o o o o o o o o o o o o u-loc 
+1751 : o o o o o b-org l-org o o o o o b-loc l-loc o o o u-loc o o o o o o o o o b-loc l-loc 
+5017 : o o o o o o b-peop i-peop l-peop o o o u-peop o u-other o o o o o o o o o 
+940 : u-loc o u-loc o u-org o 
+973 : u-loc o u-loc o u-org o 
+3211 : o o o o o o o o o o o o o o o o o o o o o o u-loc o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o b-loc i-loc i-loc l-loc o o b-peop l-peop o o o o o b-loc l-loc o o o o o o o o o o o o o o o o o o o o o o o o o 
+1202 : u-loc o o b-peop l-peop o o o u-other o o o o o o o o o o o 
+5286 : o o o o o o o b-peop l-peop o o o o o b-loc i-loc i-loc l-loc o o o o o o o o b-org l-org o o o o o o o o o 
+146 : b-loc l-loc o u-loc o 
+2155 : o o o o o o o o o o o o o o o o o o o o o o u-org o b-peop l-peop 
+3360 : o o o o o o o o o u-loc b-org i-org l-org b-other i-other l-other o o o o o o o 
+5224 : u-peop o o o b-peop i-peop l-peop o o o o o o o o o 
+3954 : o o o o o o o o b-other l-other o o o o u-loc o b-other l-other o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o o b-org i-org l-org b-peop l-peop o o o o 
+4427 : o u-peop o o o o o o o o o o o o o o b-loc l-loc o o o o o o o o o o o o o b-peop i-peop i-peop l-peop o b-peop i-peop l-peop o o o o o o o o 
+1546 : o b-peop l-peop o o o o o o b-org i-org i-org i-org i-org l-org o o o o o o o o o b-peop l-peop o o o o o o o o o o o 
+5107 : o o o o b-peop l-peop o o o o o o o o o o o o o o o o b-peop l-peop o b-peop l-peop o u-other o o o o 
+5247 : o o o o b-peop l-peop o o o b-loc i-loc l-loc o 
+1210 : o o o o o o o o o o o u-loc o o o o o b-peop l-peop o o o o o o o o o o o o o o o o 
+3129 : u-loc b-org i-org l-org 
+5229 : b-peop i-peop l-peop o o o o b-peop l-peop o o b-peop i-peop l-peop o o o b-org i-org l-org o o o o o o 
+5344 : o o o o o b-peop l-peop o o o b-loc i-loc i-loc l-loc o 
+5391 : o o o o o o o o o o o o o b-loc l-loc o o o o b-org l-org o o o o o o o o o o b-peop l-peop o o o o o o o o o o o o o o o o o 
+5097 : o o o b-peop i-peop l-peop o o o o o o b-peop l-peop o u-peop o o b-loc i-loc l-loc o o o o u-other o 
+1730 : o o o o o o o o o b-org i-org i-org l-org o o o o o o o o o o o o o o o o o o o o o o o o u-loc o o b-peop l-peop o o o o o 
+5000 : o o o b-peop i-peop l-peop o o o b-loc i-loc l-loc o o o o o o o o b-peop i-peop i-peop l-peop o 
+947 : o o o o o u-org o o o o o o b-loc l-loc o u-loc o o u-peop o o 
+5060 : u-peop o o o o o u-org o b-loc l-loc o o o o o o o o o o u-peop o o o o o o o o u-peop o o u-peop o o o u-org o o 
+862 : o o o o o o u-loc o u-loc o o b-org l-org o u-loc o o o o o o o o b-org l-org o 
+1363 : u-org o o o o o o u-other o o o b-other i-other i-other l-other o b-peop i-peop l-peop o o u-loc o o o b-other l-other o o o o o o o o o o o o 
+208 : o b-peop i-peop l-peop o u-loc o o o u-peop o o o o o o o o o o o o o o 
+5316 : o o o o o o o o o o o o b-loc l-loc o b-peop l-peop o o o o b-loc i-loc l-loc o 
+4594 : o o o o o o o b-peop l-peop o o b-org i-org i-org l-org o b-peop l-peop o o b-org i-org l-org o o o o o o o o o o o o o o o o o o o 
+5263 : o o o o o o o o b-loc l-loc o b-peop l-peop o o o o b-loc i-loc i-loc i-loc l-loc o 
+4173 : o o o o o o o o u-loc o u-loc o u-loc o u-loc o b-loc l-loc o u-loc o u-loc o u-loc o u-loc o u-loc o u-loc o u-loc o u-loc o u-loc o u-loc o u-loc o u-loc o u-loc o u-loc o o o o o o o o o o o o b-org i-org l-org o o o o o o o o u-loc o o o o b-peop i-peop l-peop o o o o o o o o o o b-other l-other o o o o o b-other l-other o o o o 
+1088 : o o o o o o o o o o o o u-peop o o o o o o o o o o o b-peop l-peop o o o o o o o u-loc o 
+3280 : o o o o o u-loc o o o o o o u-loc o o o o o o o b-other i-other i-other i-other l-other o o o o o o o o o o o o o o o o o o o 
+5063 : b-peop i-peop l-peop o o o o b-peop i-peop i-peop l-peop o o o o o o o o o b-peop i-peop i-peop l-peop o o o o o o o 
+5325 : o o o o o o b-peop l-peop o o u-loc o o o o o o o o o o o o o o o o o o o 
+906 : u-loc o u-loc o u-org o 
+3778 : o o u-peop o o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o b-org i-org l-org o o o o o o o o o o o o o o o o o o o o o o 
+5016 : u-peop o o o o o o o o o o o u-peop o 
+5384 : u-peop o o o o o u-loc o o o o b-loc l-loc o o o o o 
+2365 : o o o o o o o o o o o o o o o o b-peop l-peop o u-loc o o o o 
+3386 : o o u-loc o u-loc b-org l-org o o b-other i-other l-other o o 
+2941 : o o o o o o o o o b-peop i-peop l-peop o o o o o o o o o o o o o o o o o b-loc l-loc o o o o o o o o o o b-peop l-peop o o o o o o o b-loc l-loc o o 
+3704 : u-loc b-org l-org 
+5154 : o o o b-peop i-peop l-peop o o o o b-peop i-peop i-peop i-peop l-peop o o o b-org l-org o o o o o o o o o o o o o o o o o o o o o u-peop o o 
+5252 : u-peop o o o o u-peop o o o o o b-loc i-loc l-loc o 
+2078 : o o o o o o o o u-loc o u-loc o o o o o o o o o o o o o o b-peop l-peop o o o o b-org i-org i-org i-org i-org i-org l-org 
+5118 : u-peop o o o o o o o o o b-peop i-peop l-peop o o u-peop o o o o o u-peop o u-peop o u-other o o o o 
+1423 : o o o o o o o o o b-peop l-peop o o o o b-org i-org i-org l-org o b-loc l-loc o 
+2315 : b-peop l-peop o o o o o o o o b-org i-org i-org l-org o o o o o o o b-other i-other i-other l-other 
+2069 : u-org o o o o o o o o b-loc l-loc o o o b-other l-other o o b-loc l-loc o u-loc o o o o o o o o o o o o o o 
+4207 : o o o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o o o o o o o b-peop l-peop o o o o o o o o b-org l-org o o o o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o 
+5098 : o o o b-peop i-peop i-peop l-peop o o o b-peop i-peop l-peop o o o o o o o u-loc o o o 
+1793 : o o o o o o o o o o o o o o b-loc l-loc o u-loc o o o o o o o o o o o 
+4359 : u-loc b-org i-org l-org 
+3986 : o o o o o o o o o o o b-org i-org i-org l-org o b-peop i-peop l-peop o o o o u-peop o o o o o o o o o 
+2781 : o o o u-other o o o o o o o o b-peop l-peop o o o b-org i-org i-org i-org l-org 
+655 : o o o o b-loc l-loc o o o o o o o o o o o o o b-loc l-loc o 
+894 : u-peop o o o o b-peop l-peop o o o o u-other o u-loc o u-loc o o o o o o o o o o o o o o o o o 
+3989 : u-loc b-org i-org i-org l-org 
+2762 : o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o b-org i-org i-org i-org l-org o o o o 
+1094 : o o o o o o o o o o o o o o o o o o o o u-peop o o o o o o o o o b-loc l-loc o o 
+5171 : b-peop i-peop l-peop o o o o o o o o u-peop o u-other o o o o o o o o o o o o o u-loc o o u-loc o o o o o o o o o o b-loc i-loc l-loc o 
+5083 : o o o o o o b-peop l-peop o o o o o b-loc i-loc i-loc l-loc o o b-peop l-peop o o o o o o o o 
+412 : u-org o o o u-peop o o b-loc l-loc o o o o o o o b-other l-other o u-org o o o o o o o o o o o o o o 
+5379 : o o o o o o o o o o b-peop l-peop o o o b-loc i-loc l-loc o 
+2327 : u-org o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+3185 : o o o b-org i-org i-org i-org l-org o u-loc o o o o o o o o o o o o o o o o o o o o 
+623 : o o o o o o o o o u-loc o o o o u-loc o o o o o o o o o o o o b-loc l-loc o u-loc o o b-other i-other i-other l-other o o o o o o o o o o o o o o o o o o o o o o o u-loc o o o u-loc o o o o o 
+4295 : o o o o o b-other l-other o u-org o o u-loc o o o b-peop l-peop o o o b-peop l-peop o o o o o o o o o o b-loc i-loc i-loc i-loc i-loc l-loc o o o o o b-loc l-loc o o o o b-other l-other o 
+5047 : u-peop o o o o o o o o o o o o o o o o o o o o u-peop o o o o o o o o o o o b-org l-org o u-loc o 
+1943 : b-loc l-loc o u-loc o u-org o 
+1871 : o o o o o o o o o o o o o o b-loc l-loc o b-peop l-peop 
+1069 : o b-loc l-loc o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-loc l-loc o o o o o o o o o o o o o 
+3110 : o o o u-loc o b-peop l-peop o o o o o o o o o o u-loc o o o o o o o o o b-loc l-loc o o u-peop o o o o o o o o o o o o o o o o o u-loc o u-loc o 
+2944 : u-loc o o u-peop o o o o o o u-loc o u-loc o o o b-other l-other b-other i-other l-other 
+5288 : o o o o b-peop i-peop l-peop o o o o o u-loc o o o o o o o u-other o o o u-loc o o o o o o o o o o o b-loc l-loc 
+5087 : o o o o o b-loc i-loc l-loc o o o u-peop o o o o o o o o o b-peop i-peop i-peop l-peop o 
+911 : o o o b-org i-org l-org o o u-loc o o o o b-peop l-peop o o o o u-loc o o o o o u-loc o o o o o o o o 
+5279 : o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop i-peop i-peop l-peop o o o o u-loc o o u-loc o o b-loc l-loc o o 
+2280 : o u-peop o o o b-loc l-loc o o o o b-other l-other o o o o u-loc o o o o o o o o o o o o o o o o 
+5248 : u-peop o o o u-other o o b-loc l-loc o o o o o o o o u-peop o 
+5067 : o o u-peop o o o o o o o o u-peop o o o o 
+5102 : b-peop l-peop o o o o o o b-peop i-peop l-peop o o o o b-peop l-peop o o o o o o o o o o u-other o o o o o o o o o o o o o o o o o 
+1899 : o o o u-org o b-peop l-peop o u-loc o u-loc o o o o o o o o o o u-peop o o o o o o o o o o u-loc 
+2942 : o o o o o o o o o o o u-org o o o o o o o o o o o o o o o o o o o o o o o b-org i-org l-org o b-peop l-peop o o o o o o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o u-org o o b-peop l-peop o o o o o o o o o o o o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o o o o o 
+2476 : b-peop l-peop o o o o o o o o b-org l-org 
+4269 : o o o o b-peop i-peop i-peop l-peop o o o o o o o b-loc i-loc i-loc l-loc o o 
+5232 : o o o o o o o o o o o o o b-peop i-peop i-peop i-peop i-peop l-peop o o o o b-peop i-peop l-peop o o o o o o o o b-peop l-peop o o o o o o o o o o o o o b-org i-org l-org o o o o o 
+1101 : u-peop o o o o o o u-other o b-peop l-peop o o o o o o o o o o o o o o o o o o o o b-org l-org o o b-loc l-loc o 
+3893 : o u-loc u-org o o b-other l-other b-other i-other l-other 
+1567 : u-loc o u-loc 
+983 : o o u-loc o o o o o o o o o o o o o o o o b-loc l-loc o o o o o o o o 
+5212 : o o o o o u-peop o o o o o o o u-other o o o o o o o o o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o o u-other o o u-other o u-other o o o o 
+5145 : u-peop o o o u-loc o o o o o o u-peop o o o b-loc l-loc o u-other o o o o 
+5146 : o o o o o o o o o o b-peop i-peop l-peop o o o o u-loc o o b-peop l-peop o o o 
+2848 : b-peop l-peop o o o o o o o o b-org l-org o o o o o o o o o o o o o o o o 
+5045 : o o o o b-peop i-peop l-peop o o o o o o o o b-peop i-peop i-peop l-peop o o o b-peop l-peop o o o o b-loc i-loc l-loc o u-loc o 
+2596 : o o o o o o o o o o o o o o o o o o o o b-loc l-loc o o o o b-peop l-peop o o o o o o o o u-peop o 
+1667 : b-loc l-loc o u-org o 
+2293 : u-org o o o b-other l-other o o o o o b-org l-org o o u-loc o o o o o o o o o o o o o o 
+674 : b-peop l-peop o o o o o b-org l-org o o o o o o o o o o o 
+2575 : u-peop o o u-other o o o o o o o o o o o o o o o o u-loc u-org o o o o o o o o o o o o o o o o o u-loc 
+4378 : b-peop i-peop l-peop o o o o o o o o o o o o o o o o o o b-org l-org o u-loc o u-loc o u-loc o u-loc o o u-loc o o o o o o o o o o o 
+4035 : o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-other i-other l-other o o o o o o o o o o o o o o o o o o o o o o o o o o u-loc o u-loc o o b-other l-other o o o 
+3418 : u-peop o o o b-org l-org o o o o o o o o o o 
+5382 : b-peop l-peop o u-loc o o o o o o o o o u-other o b-loc l-loc o o o o o 
+2480 : o o o o o o o o o o o o o o o o o o o b-loc l-loc o o b-peop l-peop 
+2974 : u-peop o o b-other l-other o o o o u-peop o o b-other l-other o u-loc o o o o o o o u-other o 
+1013 : o o u-loc o u-peop o o o b-loc l-loc o o o o o b-org l-org o o o o o o o 
+571 : u-peop o o o o o b-org l-org o o o o o o o o o o u-peop o o o o o o o o o b-peop i-peop l-peop o o o o o o o b-org l-org o o o o o o o o b-org l-org o o o o o o o b-peop l-peop o 
+5218 : o o o o o o o o o o u-peop o o b-peop l-peop o o u-peop o o o o o o o o o o o o u-peop o u-other o u-loc o 
+5152 : u-peop o o u-peop o o o u-peop o o o 
+5241 : o b-peop l-peop o o o b-peop l-peop o o o u-other o u-peop o o o o o o 
+5417 : b-peop i-peop l-peop o o o o o b-loc i-loc l-loc o o o o o o o o o b-other l-other 
+5300 : o o o o u-org o o b-peop l-peop o o o o o o o o o o o o o o o o b-loc i-loc l-loc o 
+2165 : b-loc l-loc o u-loc o u-org o 
+5177 : o o o o o u-other o o o b-peop l-peop o o o u-loc o o o o o b-peop i-peop l-peop o u-loc o u-loc o 
+3298 : b-peop l-peop o o o o o u-loc o o u-loc o o b-peop l-peop o o o o u-loc o o b-org i-org i-org i-org i-org l-org o o o o o 
+1557 : o o o o o o o o o o o o o o b-peop l-peop o o u-loc o 
+5169 : u-peop o o o o b-peop l-peop o o o o o o o b-loc l-loc o o u-loc o o o o o o o u-other o o o o o u-peop o o o o o b-peop i-peop l-peop o o o o o o u-peop o o o o o o o o 
+5407 : u-peop o o o b-loc i-loc l-loc o o o b-peop i-peop i-peop l-peop o 
+3348 : o o o o o o o o o o u-org o u-org o o u-loc o o b-org i-org l-org o 
+1491 : o o u-loc o o b-loc l-loc o o o o o o o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+1483 : o o o o o u-loc o u-loc o o b-loc l-loc o u-loc 
+5276 : u-org o b-peop l-peop o o o o u-loc o o o o u-other o 
+4627 : b-loc l-loc u-org 
+1875 : b-peop l-peop o o o o b-loc l-loc o o o b-other l-other o o o o o o o o o o o o o o o o o o o o o o o o o o 
+3150 : u-peop o u-loc o o o o o u-loc b-org l-org o o b-other i-other l-other o o o o o o o o o 
+3045 : o o o o o o o o o o u-peop o o u-loc o o o o o u-other o u-other o o o o o o o u-loc o u-other o o o o o 
+5356 : o o o o o o o b-peop l-peop o o o u-loc o 
+1031 : o o o o o b-other i-other l-other o o o o o u-loc o u-loc o o u-loc o u-loc o o o o o u-loc o u-loc o 
+2843 : b-peop l-peop o o o b-org i-org i-org l-org o o o o o o o b-loc l-loc o o o o o o o o o o o o o 
+3988 : o u-loc b-org i-org i-org l-org o o b-other l-other b-other i-other l-other 
+5069 : o o o o o o o o u-other o o o o o o o o o o o o o u-loc o o b-peop l-peop o o o o b-peop i-peop l-peop o o o o o b-peop i-peop i-peop l-peop o o o o o o o o o o o u-loc o o o o o o o o o 
+5419 : o o b-peop l-peop o o o u-loc o o o o o o o o o o b-loc l-loc o o o o o o o u-other o o o o 
+2945 : u-loc u-org 
+1484 : o o o o o o o o o o o o o o o o o o o o o b-other l-other o o o o o o o o o o o o o u-loc o u-loc o o u-loc o o o o b-peop l-peop o o b-org i-org l-org 
+2542 : o o o o u-loc o b-loc l-loc o o b-other l-other o o o u-loc o o o o o o b-other i-other i-other l-other o o o o o o o 
+5231 : o u-org o o u-other o o o o o o o o b-peop i-peop l-peop o o o o o o o o u-peop o o o o b-peop i-peop l-peop o o o u-peop o o o o o o o o 
+1445 : o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o o o b-org l-org o 
+863 : u-org o o o o o o o o o o o o o o o o b-loc i-loc i-loc l-loc o u-loc o u-loc o 
+5284 : b-peop l-peop o o o o b-peop i-peop i-peop l-peop o o o b-peop i-peop l-peop o b-loc i-loc i-loc l-loc o o o o 
+5173 : u-peop o o o o o b-peop i-peop i-peop l-peop o o o o o o o o o u-peop o o o o o o o o o o u-loc o o o o o o o o 
+1171 : u-peop o o o b-org i-org l-org o o o o o o o u-other o o o o o o o o o o o o o o o o o o o o o b-org l-org o o 
+3708 : b-org l-org o o o o o o o o o o o o o o o u-peop o o o o o o o o o o o o o o o o o o o o o o b-org i-org i-org i-org i-org i-org i-org i-org l-org 
+2613 : o o o u-peop o o u-loc o o o o o o o o o o o o o o o o b-peop l-peop o o o o o o o o o o o o 
+5105 : o o o o o o o o u-other o o o o b-peop i-peop l-peop o o o o b-peop l-peop o o o u-other o b-loc i-loc l-loc 
+268 : o b-loc l-loc o u-loc o u-loc o o o o b-org l-org o o o o o o o o u-loc u-org o o o o o o o o o o u-loc o b-other i-other l-other 
+5328 : o o o b-peop l-peop o o o o o b-peop i-peop l-peop o o o o o o o o b-other l-other o o o o o o b-loc i-loc l-loc o 
+5415 : o o o o o o b-peop l-peop o o o u-loc o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+5074 : o o o b-peop l-peop o o o o o o o b-org i-org l-org o o o b-peop i-peop l-peop o o o o o o o o o o o b-other l-other o o o 
+5015 : o o o o u-peop o o o o o o o o o o o o b-peop i-peop l-peop o o o o o o o o 
+3328 : b-loc l-loc u-org 
+1091 : b-org i-org i-org l-org o o o o o o o o o o o u-other o o o o o o o o o u-loc o o o o u-other o 
+2572 : u-loc o o o o o b-loc l-loc o o o o o o u-org o o u-loc o o o o o o o o o 
+2456 : b-org i-org l-org o o o o o o o b-other l-other o o u-loc o o u-loc o o o o o o o o o o 
+5267 : o o o o o o o o o o o o b-loc l-loc o b-peop l-peop o o o o b-loc i-loc i-loc l-loc o 
+2029 : o b-other i-other l-other o o o o o b-org l-org o u-loc o o b-org l-org o u-loc o o o 
+2608 : b-peop l-peop o o o o b-org i-org i-org i-org i-org i-org i-org i-org l-org o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+5052 : o o o o o o o b-org l-org o o o o b-peop i-peop l-peop o o o o u-peop o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+5422 : o o o o u-other o o o o o o o u-peop o o b-loc i-loc i-loc l-loc o o o o o o o o o o o o o o o 
+4140 : o o o u-loc b-other l-other o o o o u-loc o o o o o o o o o b-other i-other i-other l-other o o o b-other l-other o o o o b-peop l-peop o o o o o o o o 
+5159 : u-loc o o u-peop o o u-other o o o o o o o o b-peop i-peop i-peop l-peop o 
+5421 : b-other l-other o o b-other l-other o u-loc o o u-other o b-peop l-peop o o o o o o o o o o o o o u-loc o o o 
+173 : u-peop o o o o o o o o o o o o o o o o u-loc o o o o o u-peop o o o o b-other l-other o 
+831 : u-loc o b-peop l-peop o o o o o o o o o o o b-other i-other l-other o o o o o o o o o o o o o o o o o b-other l-other o 
+3951 : u-loc b-org l-org 
+1402 : o o o o o o o o o o o u-org o o o o o o o u-loc o o o o o o o o o o o o o o o o b-peop l-peop o o o o b-org i-org i-org l-org o b-loc l-loc o 
+2504 : o o o o o o o o o u-loc o o b-org l-org o u-loc o u-loc o o o o o 
+3766 : o o o o o b-peop l-peop o o o o o b-org i-org i-org i-org l-org o o o o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-loc i-loc l-loc o b-loc l-loc o b-loc i-loc l-loc o b-loc l-loc o o b-loc l-loc o b-loc l-loc o 
+2635 : o o o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o o u-loc o o o o o 
+4241 : o b-loc l-loc u-org o o b-other l-other b-other i-other l-other 
+5191 : o o o o o u-peop o o o o o o o o o o o o o o u-peop o o o o o o u-peop o o o u-peop o 
+5779 : o o u-other o o o u-peop o o u-other o o b-loc l-loc o o u-loc o 
+1558 : o o o o o o o o o o o o o o o u-loc o b-peop l-peop 
+276 : u-peop o o o o o o b-org l-org o o o o o u-loc b-org l-org o o o o o o o o o o o o o 
+110 : o b-peop l-peop o o o o o o o o o o o o o b-org i-org i-org i-org l-org o o o o o o o o o o u-peop o 
+5280 : o o o o o u-loc o o b-peop l-peop o o o o b-loc i-loc l-loc o 
+5372 : o o o o o o o o b-loc l-loc o b-peop l-peop o o o o b-loc i-loc l-loc o 
+3780 : o o o o o u-loc o u-loc u-org o o b-other l-other b-other i-other l-other 
+936 : o o o o o o b-loc l-loc o o b-other l-other o u-other o u-other o o u-org o o 
+1486 : o o o o o o b-loc l-loc o u-loc o u-loc 
+1612 : o o o o o o o o o o o o b-peop l-peop o o o o o o o o u-loc o o u-loc 
+3322 : o o o u-loc o u-loc o b-other l-other o u-org o o o o o o o o o o o b-other l-other o o o o b-loc l-loc o u-other o o o b-other i-other l-other o o 
+4136 : o o o o o o o o u-loc o o o b-peop l-peop o o o o o o o o o o b-loc i-loc l-loc o o o o o o b-org i-org i-org l-org o o o o o o o o o o o o o o o o 
+5299 : o u-peop o u-peop o o o u-loc o o o o o o o o o b-loc l-loc o o o o o o o o o o o o o o o b-peop l-peop o b-peop i-peop l-peop o o b-peop i-peop l-peop o 
+4589 : o u-loc b-org l-org o b-other l-other o o o b-other i-other l-other o o 
+5027 : b-peop l-peop o o o b-peop l-peop o o o o o o o u-other o o o o o o o o o o o o o o o b-org l-org o o o o o o o o o o 
+1073 : o o o o o o o o o o o o o o b-other l-other o b-loc l-loc o o o b-org l-org o b-peop l-peop o 
+3320 : o o o o o o o o u-loc u-org o o b-other l-other b-other i-other l-other 
+414 : u-peop o o o o u-loc o o b-other l-other o u-org o o o u-other o o o o o o o o o o o o o o o o o o o o b-org i-org l-org o 
+853 : o b-org i-org i-org i-org l-org o o o b-peop i-peop l-peop o o o o o b-org i-org l-org o b-peop i-peop l-peop o u-org o o o o o o o o o o o o o o o o o o o u-other o 
+2591 : b-loc l-loc o u-org o 
+5324 : o o o o o b-peop l-peop o o u-peop o o o b-loc i-loc l-loc o 
+5347 : o o o o o b-peop l-peop o o b-peop i-peop l-peop o b-loc i-loc l-loc o 
+2960 : o o o o o o o b-peop l-peop o o o o u-other o o o o b-org i-org i-org l-org o 
+3017 : o o o b-loc i-loc i-loc l-loc o o o o u-loc o o o u-loc o u-loc o 
+3563 : o o o u-peop o o o o u-loc o o o o b-org i-org l-org o u-other o 
+597 : u-loc o b-loc l-loc 
+5409 : u-peop o o u-loc o o o o o o u-org o o o o b-org i-org l-org o u-loc o 
+5320 : o o o o b-peop l-peop o o o b-loc i-loc i-loc l-loc o 
+4557 : u-peop o o o o o o o o o o o o o o o o u-loc o o o o o o o o o o o o o o b-org l-org o o o o o 
+667 : b-peop l-peop o o o o o o b-org l-org o o o o o o o o o o o o b-peop l-peop o u-loc o o o o o o o 
+5374 : o o o b-peop i-peop l-peop o o o o o o b-loc l-loc o o o o b-loc i-loc i-loc l-loc o 
+3176 : o o o o o o o o o o o o o o o o o o o o o o o o o o u-peop o o o o o o o o o o o o o b-peop l-peop o o o u-peop o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o b-peop l-peop o o b-org i-org l-org o o o o o o o o 
+301 : b-peop i-peop l-peop o o o o o o o o u-other o o o o o o u-org o o o o o o o o o o o o o o o b-org l-org o 
+26 : o o u-loc o u-loc o o o o o o o o o o o o o o o o b-other l-other o o o o o o o 
+4483 : o o o o b-org l-org b-loc l-loc o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o 
+5418 : b-peop l-peop o o u-loc o o o o o o o o o o o o 
+1574 : o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o o o o b-org l-org o o o o u-org o o o o o 
+327 : o o o o b-peop l-peop o o o o o o o o o o o u-loc o u-loc o b-other l-other o o 
+3246 : o o o b-loc l-loc o b-other l-other o o o o o o b-peop i-peop i-peop l-peop o o o o o o o o o o o o o o o o o o o o b-other l-other o 
+1752 : b-peop l-peop o o o o u-loc o o o o b-loc l-loc o o o o o o o o o o o o o o o o o u-loc o o 
+493 : b-peop l-peop o o o o o o o o o o o o o o o o o o o o o o o o b-other l-other o o u-loc o o o o o o o o o o o o o o o o o o o o 
+1537 : o b-peop l-peop o o o o o o b-org i-org i-org i-org i-org l-org o o o o o o o u-peop o o o o o o o o o o o o o o o o o 
+554 : o o o o o o o b-loc i-loc l-loc o o u-loc o u-loc o o o o o o o o o o o o o o o 
+1067 : o o o o o o o o o o o o o b-peop l-peop o o o o o o o u-loc o 
+1105 : b-peop l-peop o o o o b-org l-org o o u-loc o u-loc o o o o o o o o o 
+5142 : o o o o o o o o b-loc i-loc l-loc o o o o o o o b-peop i-peop l-peop o o o o b-peop l-peop o 
+5192 : o o o o u-other o o b-peop i-peop l-peop o o o u-peop o o o o u-org o o o u-other o o o o 
+4265 : o u-loc u-org o o b-other l-other b-other i-other l-other 
+3906 : u-loc b-org l-org 
+4176 : o o b-peop l-peop o o o o o b-org i-org i-org i-org l-org o u-org o o o o o o o b-other l-other o o o o o u-loc o 
+3765 : u-loc b-org l-org 
+1451 : o o o o o o o o o o o o b-loc i-loc l-loc o o o o o o o o o o o o o o o b-peop l-peop o u-org o o o o 
+5265 : o o o o b-peop l-peop o o o b-loc i-loc l-loc o 
+5138 : b-peop i-peop l-peop o o o o o u-peop o b-peop i-peop l-peop o o o o o o 
+3046 : u-peop o o o o o o o o o o o o o o b-peop l-peop o o o o o o o o o u-loc o o u-loc o 
+3196 : o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o o o u-loc o o o o o o o o o o o o o u-loc o o o o o o 
+2080 : o o o o o o o o o b-other l-other o b-other l-other o b-loc i-loc l-loc o o u-loc o o o o o o o b-loc l-loc o o o o b-other l-other o o o o o o o o o o 
+5251 : o o o o o o o o b-loc l-loc o b-peop l-peop o o o o b-loc i-loc i-loc l-loc o 
+2119 : o o b-peop l-peop o u-loc o o o o o o o o o o o o o o b-peop l-peop o u-loc o o o o o o o o o o o o o o o o o o o o u-peop 
+1336 : u-loc o b-loc l-loc 
+5144 : u-peop o u-loc o o o o o o o o o o b-peop i-peop l-peop o o o o b-peop i-peop l-peop o o o 
+4220 : u-peop o o o o o o o u-org o u-loc o b-other l-other o o o o o o o o o o o o o o o o o b-other l-other o u-other o o o o o o o o o b-org l-org o o o o o u-loc o o o o o o o o o o b-peop l-peop o 
+2557 : o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o b-org i-org l-org o u-loc 
+5362 : o o o b-peop l-peop o o o o o b-loc l-loc o o o o b-loc i-loc i-loc l-loc 
+3423 : o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o o o o u-org o b-org i-org l-org o o o 
+1614 : o o o o b-other l-other o o o o o o b-other l-other o o o o o o o o b-peop l-peop o o o o o o o o b-org i-org l-org o u-loc o u-loc 
+1003 : o b-peop l-peop o o o o o o o o o u-other o o b-peop l-peop o o o o o o o u-other o o o o o u-org o o o o 
+5414 : o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o o o o o o o o o o o u-loc o o o o o o o o o u-loc o 
+552 : o o o o o o o o o o o o o o o o o b-loc i-loc l-loc o u-loc o o b-loc l-loc o u-loc o u-loc o o b-loc i-loc i-loc l-loc o u-loc o u-loc o o o b-loc l-loc o u-loc o 
+2448 : o o o o o b-org i-org l-org o u-loc o o o o o o o o o o o o 
+1954 : o o o o o o b-loc l-loc o u-loc o o o o o o o o o o o o o 
+5131 : o o o b-peop l-peop o o o o b-peop i-peop i-peop i-peop l-peop o 
+5058 : o o o o u-org o b-org l-org o o o o o o o o u-peop o o o o o o o o o o o o o o b-org l-org o o o o o o o u-peop o 
+5314 : o o o o b-peop i-peop l-peop o o o u-loc o 
+4605 : o o b-peop l-peop o o b-org i-org l-org o u-loc o o o o o o o o o o o o o o o o o o o o o o o o o 
+467 : o o o o o o o o b-loc i-loc i-loc l-loc o o b-loc i-loc l-loc o o o o o o b-other i-other i-other i-other l-other 
+5322 : o o o o o o o o u-other o o o o b-peop l-peop o o o o o b-loc l-loc o o o o o o o o o o o b-loc i-loc i-loc l-loc o 
+1390 : o o o o o o o o o b-loc l-loc o u-loc o o u-org o o o o o o o o o o o b-org i-org i-org o b-other i-other l-other o o o o o u-org o o o o 
+78 : b-peop i-peop l-peop o b-peop i-peop l-peop o b-org l-org o o b-org i-org i-org i-org i-org l-org o o o o o o o o o o o o o o o o o o o o o o o b-other i-other l-other o o o o b-other i-other i-other l-other o o o o o o o o u-loc o o 
+27 : o u-org o o o o o o o o u-loc o u-loc o o o u-loc o u-loc o o o o o o o o o o o 
+3083 : u-loc u-org 
+1233 : o o o o b-peop i-peop l-peop o o o o o b-org i-org l-org o o o o u-loc o o o o o o o o o 
+1266 : o o o o o o o o o o o o o o o o u-org o o o o o u-org o b-peop l-peop o o o 
+335 : o o o o o o o o o o o o o o o o o o b-org i-org l-org o b-peop l-peop o o 
+4125 : o b-org l-org o o b-org i-org l-org o b-peop l-peop o o u-peop o o o o o o o u-loc o b-loc l-loc o o o o o o o b-loc l-loc o o o o o 
+495 : b-peop i-peop l-peop o o o o b-org i-org i-org l-org o o b-peop l-peop o o o o o o o o o o 
+5345 : o o o o o o o b-peop l-peop o o o o o o b-loc l-loc o o o o b-loc i-loc i-loc l-loc o 
+621 : o o o o o o o o o o o o u-loc o u-loc o o o o o o o o o o o o o b-peop l-peop o o o o o o o o u-loc o o o o o o o o o o u-loc o u-loc o o o o o u-loc o u-loc o 
+5119 : o o o o o o b-peop i-peop l-peop o o o o o o o o o o o o o o o b-peop l-peop o b-peop l-peop o u-other o o o o o u-loc o 
+5309 : o o o o o o o o b-loc l-loc o b-peop i-peop l-peop o o o o b-loc i-loc l-loc o 
+5018 : o o o o o o o o o o o o o o o b-peop l-peop o o o o o o u-peop o o o o o 
+4135 : u-loc b-org i-org l-org 
+665 : u-peop o o o o o o o o o o o o u-peop o o o o b-loc l-loc o o o o o o o 
+489 : u-loc o b-loc l-loc 
+2566 : o o o o o o o o o o o b-other l-other o o b-loc l-loc o o o o o u-loc o u-loc o o b-peop l-peop o o o o o b-org i-org i-org i-org l-org 
+3877 : o u-loc u-org o o b-other l-other b-other i-other l-other 
+477 : o o b-peop l-peop o u-loc o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+5242 : o o o o o o o u-peop o o o b-org l-org o o o o u-peop o o o o o o o o o o o o b-peop l-peop o 
+1012 : u-peop o o o o b-other l-other o o o o o o o o o o b-peop l-peop o b-loc i-loc l-loc o 
+2898 : o o b-other l-other o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o u-org o o b-other l-other o o o b-peop l-peop o o o o o u-org o b-loc l-loc o o o o o o o o o o o 
+5044 : u-peop o o o o b-other i-other l-other o o u-other o o o o o b-peop i-peop l-peop o 
+3466 : o b-peop l-peop o o o o o o o o o u-loc o u-loc o o o o o o o o o o o o o o o o o o o o 
+2251 : u-peop o o o o b-org i-org i-org l-org o u-loc o o o o o b-other l-other u-org o o o u-peop o o o o o o o o o o o u-other o o o o o o o o b-other l-other o o o o o o o o o o o o o 
+5281 : u-peop o o o o b-loc i-loc i-loc l-loc o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o u-loc o o b-peop l-peop o 
+3791 : u-org o o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-other l-other o o o o o 
+1060 : b-loc l-loc o o o b-other l-other o o o o o o o o o o o o o o o o o o o o o o o o b-loc l-loc o o o o o 
+5130 : o o o o o o o o u-other o o o o b-peop l-peop o o o o o o b-peop i-peop l-peop o o o o o o o o u-other o o o u-other o o u-other o u-loc o 
+1189 : u-loc o b-peop l-peop o o o o o u-loc o o o o o o o o o o o o o o o o o o o o o o o o 
+4153 : o u-org o o o o b-other l-other o o u-peop o o o o u-org o b-org i-org i-org i-org l-org o o o b-other l-other o 
+1807 : u-loc o u-loc o o o o u-loc o o o 
+417 : u-peop o o o o o o o o o o o o o o o o u-org o o o o o o o o o b-org l-org o o o b-peop l-peop o o o o o o b-org i-org i-org i-org l-org o 
+5165 : b-peop i-peop l-peop o o o b-peop l-peop o o o o o o o o o o o o o o o o 
+2952 : u-loc u-org 
+4372 : o o o o o o o o o o o b-peop l-peop o o o o b-org i-org l-org o o o o o b-org l-org o o o o o o o b-other l-other o o u-other o o u-loc o 
+1185 : o u-loc o b-loc l-loc o u-loc o o u-loc o u-loc o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+1916 : o o o o u-org o o o u-loc o u-loc o u-peop o o o o o o o o b-loc l-loc o o o o o o o u-org o 
+5209 : b-other i-other i-other l-other o o o b-loc l-loc o o u-loc o o o b-peop i-peop l-peop o o o o o o b-peop i-peop i-peop l-peop o o o o o o 
+3015 : u-loc o o o o o u-loc o o o o o o o o o o o o o o o o o o o o u-other o o 
+1200 : o o o o o o o o o o b-peop i-peop l-peop o o o o o o o o o o b-org i-org i-org i-org i-org i-org l-org o o o o o o o o o o o 
+95 : o o o o o o o o o o o o o o o o o o o o o o b-other i-other i-other l-other o b-other i-other i-other l-other o o u-other o o o o b-peop l-peop o o o o o o b-org i-org l-org o 
+2139 : b-org l-org o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o o u-peop o o o o o o o o o b-peop l-peop 
+3387 : u-loc b-org l-org 
+2068 : b-peop l-peop o o o o o o o u-org o o o o o o o o o o o o o o o o o b-loc l-loc o o o 
+1615 : b-org i-org i-org l-org o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o o o b-loc i-loc l-loc o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o u-peop o 
+142 : b-loc i-loc i-loc l-loc o b-loc l-loc o u-loc o 
+2607 : u-peop o o b-org l-org o o b-org i-org l-org 
+2994 : o o o o o o o o o o o o o o o o o o o o o o o o o o o o o u-loc o o b-peop l-peop o o o o o o o o o 
+140 : b-org i-org i-org i-org l-org o u-loc o u-loc o 
+1391 : b-org i-org i-org o o o b-loc l-loc o 
+281 : o o o u-loc o b-peop i-peop l-peop o o o o o o o o o o o o o o o o o 
+5227 : b-peop i-peop l-peop o o o o o o u-peop o o o o o o o o o o o o 
+5151 : o b-org l-org o o u-peop o o o o o o o o o u-peop o o b-peop l-peop o o o u-loc o o 
+1277 : b-peop l-peop o o o o o o o o o u-org o o o o o o o o o o o o o o b-other l-other o o u-org o o o o o o b-org l-org o 
+5136 : b-peop i-peop l-peop o o o u-peop o o o o o o o o o o 
+823 : u-loc o b-loc l-loc o u-org o 
+5089 : u-peop o o u-other u-other o o o o o o o u-peop o o o o o o o b-loc l-loc o o o u-loc o o o o o o o o o o o o b-org l-org o 
+3200 : b-peop l-peop o o o o b-org i-org i-org i-org l-org o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+3930 : u-loc u-org 
+3895 : o o b-peop l-peop o b-peop l-peop o o o o o o u-loc o o o o o o o o o o o o o o o o o o o o o o o o b-loc l-loc o o o o b-org l-org o o b-peop l-peop o o o o o o b-other l-other o o o u-loc o 
+2807 : b-peop l-peop o o o o o o o o b-org l-org o o o b-other l-other o o o o o o o o 
+1704 : o b-loc l-loc o b-peop l-peop o o o o o o o o o o o o o u-peop o o o o o o 
+5172 : o o o o b-peop i-peop i-peop l-peop o o u-other o o o o o o o o o b-peop i-peop l-peop o o o o o u-peop o 
+5075 : b-peop l-peop o u-loc o o o b-peop i-peop l-peop o u-loc o o o o o o o o o o o b-peop i-peop i-peop i-peop i-peop i-peop l-peop 
+178 : u-loc o b-loc l-loc 
+2643 : u-loc o u-loc o u-org o 
+5010 : o o o b-peop l-peop o o o o b-peop i-peop i-peop l-peop o 
+3897 : o o o o o o o o o o o o o o o b-other l-other o o o o o o o o o o o b-loc l-loc o o o o o u-loc o o b-org l-org o o 
+1289 : u-org o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o o b-org l-org o o o o o o b-other l-other o o 
+3036 : o o o o o o o u-peop o o o o o u-peop o o b-org l-org o o o o o o o o o o u-peop o o o o o o o o 
+5295 : o o o o b-peop l-peop o o o b-loc l-loc o 
+5260 : b-peop i-peop l-peop o o o u-loc o o o o o o o o o o o 
+119 : o u-peop o o o o u-loc o b-loc l-loc 
+4019 : o o o o o o o o o o o o o o o b-org l-org o o o o o o o o u-loc o o o o o o o o o o o o o o o o o o u-loc o 
+1220 : o o o o o o o o o o o o o o u-peop o o o o o o o o o o o o o o o o o o o o o o o o b-loc l-loc o 
+341 : u-loc o b-loc l-loc 
+4036 : o o o o b-org l-org o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o u-loc o o o o o o o o o 
+4293 : o u-loc u-org o o o o b-other l-other b-other i-other l-other 
+4294 : u-loc u-org o o 
+1430 : b-org l-org o o o o o o o o o o o o o o o u-loc o u-loc o o o o o u-loc o b-loc l-loc 
+118 : b-org i-org i-org i-org i-org l-org o o o u-other o b-peop i-peop l-peop o o o o o o 
+5366 : o o o o o o o o b-loc l-loc o b-peop i-peop l-peop o o o o b-loc i-loc i-loc l-loc o 
+542 : b-peop l-peop o o o o u-loc o o o o o o o o o o u-peop o o 
+3330 : o o u-loc o o o o o b-loc l-loc u-org o o o o o b-loc l-loc o b-other l-other o u-org o o o o o o b-org i-org l-org o o o o o o o o o o o b-other i-other l-other o o o o o u-loc o o o o 
+5002 : o b-org l-org o o b-peop i-peop l-peop o o u-peop o o o o o o o o o b-other i-other i-other l-other o u-other o o o o 
+5114 : o u-other o o u-other o o o o o o o o o o o o o o o o o o o o u-loc o o o o o o b-peop i-peop l-peop o o o o o u-peop o 
+2983 : o o o o o o o o o u-loc o u-loc o u-loc o o o o u-loc o o o o o o o o o o o o 
+868 : b-peop l-peop o o o o b-loc i-loc l-loc o o o o o o o o o o o o o o o 
+5202 : o o u-peop o o o o o o o u-peop o o o o o o o o o o o o o o o o o o 
+3275 : o o o o o o o o o u-loc b-org i-org l-org o o b-other l-other b-other i-other l-other 
+3095 : o o o u-loc o b-other l-other o u-org o o o o o o b-peop l-peop o o o o o o o o o o o u-loc o u-loc o b-loc l-loc o u-loc o u-loc o 
+5120 : u-peop o o o o o o o o o o o u-loc o o u-loc o b-peop l-peop o b-peop l-peop o u-other o o 
+5310 : o o o o b-peop l-peop o o o u-loc o 
+1854 : o u-loc o o b-loc l-loc o o o o o o o o o o o o b-other i-other i-other l-other o o o o o o o o 
+5388 : o o o o o o o b-peop l-peop o o o u-loc o 
+2190 : b-peop l-peop o o o o o b-org i-org l-org o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+5226 : b-peop i-peop l-peop o o o o o o o o u-peop o o o o o u-peop o 
+5397 : b-peop l-peop o o o b-loc i-loc l-loc o o o o o o o o o o 
+3311 : u-loc b-org l-org 
+4288 : o b-peop l-peop o o u-peop o o o o o o o o b-peop l-peop o u-loc o o o o o o o o o o o o u-org o b-org i-org l-org o o u-org o b-org i-org i-org i-org i-org i-org l-org o o o o o o o o o o o u-peop o o o o o o o o o o o o o o o o 
+899 : o o o b-peop l-peop o o o o o o o o b-loc l-loc o u-loc o o o o o o o o o o o o u-other o 
+5337 : o o o u-org o b-peop l-peop o o o b-loc i-loc l-loc o 
+2743 : o u-other o o o o o o b-loc l-loc o o o o o o o o o o o o o o o o o o o o o o o o o o o o u-loc o o o o o o o o 
+3029 : o u-peop o o o o o o o o o o u-peop o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o u-peop o o o o o o b-peop l-peop o o o o o o o o o o o u-peop o o u-loc o o o o o o o o o o o o o u-peop o o o o 
+5327 : o o o o o o o o b-loc l-loc o b-peop l-peop o o o o b-loc i-loc l-loc 
+1268 : u-org o b-peop l-peop o o o o o o o o o o o o o o o o u-org o o o o o o o o o o o o o o o u-org o o o o o 
+2798 : u-loc o o b-peop l-peop o o o o o o o b-peop l-peop o b-peop l-peop o o o o o o o o o o o 
+5072 : u-peop o o o o o o o o o o b-peop i-peop i-peop l-peop o 
+3109 : u-loc b-org l-org 
+508 : u-loc o b-loc l-loc 
+4561 : u-loc u-org 
+5423 : u-other o o o o o o o o o o o o o o o o o b-peop l-peop o o b-loc l-loc o o o o o o o o o o o u-org o o o o o 
+1462 : o o o o o o o o o o o o o o o b-peop l-peop o o o o u-loc o o o o o o o 
+1791 : o o o o o o o o o o o u-loc o u-loc o u-loc o 
+5156 : o o o o b-peop i-peop l-peop o o o o o o b-peop i-peop i-peop l-peop o o o o o o 
+5140 : o o o o o o o o o o o b-peop l-peop o o o o o o o o o o o o b-peop i-peop i-peop l-peop o 
+2669 : u-loc o u-loc o u-org o 
+950 : u-loc o u-loc o u-org o 
+1571 : u-peop o o o o o o o o o b-org l-org o o 
+28 : u-loc o o u-loc o o u-loc o u-loc o 
+5139 : o b-loc l-loc o b-peop l-peop o o o o b-peop i-peop l-peop o o o o 
+2874 : u-peop o o o o o u-loc o u-loc o o o o o o b-loc i-loc l-loc o u-loc o u-loc o o o o o o o o b-other l-other o o 
+2629 : b-loc l-loc o u-org o 
+4598 : o o o o o o b-peop l-peop o o o o o o b-org i-org i-org l-org o o o o o o o o o o o o o o o 
+4107 : u-loc b-org i-org i-org l-org 
+3225 : o o o u-loc o b-other l-other o u-org o o o o o o o o o o o u-loc o o o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o u-loc o b-loc i-loc i-loc l-loc o o o 
+5198 : b-peop i-peop i-peop l-peop o o o b-loc l-loc o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o b-peop l-peop o 
+1771 : b-peop i-peop l-peop o o o o u-loc o u-loc o o o o o o o o o o o o o o o o o o o o o o o o o b-org i-org i-org l-org o o o o 
+5204 : o o o o b-peop l-peop o o o o u-loc o o o o u-other o u-loc o o b-peop l-peop o o o 
+3732 : o o o o o o o u-loc b-org l-org o o b-other l-other b-other i-other l-other 
+5141 : o o o o u-peop o o o o o b-peop l-peop o o o o o o o o 
+607 : u-loc o u-loc o u-org o 
+4423 : o o o o o o o o b-peop i-peop i-peop l-peop o u-loc o 
+3421 : o o o o o o o o o o b-peop l-peop o o o o b-org l-org o o o o o o o o o b-loc l-loc 
+2675 : o o o o o o o o o o o o o o o o o o o o b-loc l-loc o o b-loc l-loc o o o 
+144 : b-loc l-loc o u-loc o 
+1098 : b-loc l-loc o b-loc l-loc 
+3485 : o u-loc o o b-org i-org l-org o u-org o o o o o o o o o o o o o o o o o u-loc o o o o o o o o o o o o o 
+1739 : o o o o o o o b-other i-other i-other l-other o o o b-org i-org l-org o u-loc o o b-loc l-loc o o o o o b-org i-org l-org o u-loc o 
+4024 : b-peop l-peop o o o o o o o o o o o u-other o o o o o o o o o o o o o o o o o o o o o u-loc o o o o o o o 
+4116 : o u-loc b-org l-org o o b-other i-other l-other o o o o 
+134 : b-loc i-loc l-loc o u-loc o u-loc o 
+5221 : o u-loc o u-other o u-other o o b-peop i-peop l-peop o o b-org i-org i-org i-org l-org o b-peop i-peop l-peop o o o o b-peop i-peop i-peop l-peop o 
+3233 : u-loc u-org 
+1037 : o o u-loc o o o o o o o o b-loc l-loc o o o u-loc o o o b-loc l-loc o o o o o o o 
+3084 : o o o u-loc o b-other l-other o u-org o o o o o o o o o o o o o o o o b-loc l-loc o o o o o o o o o o o o o o o 
+2560 : o u-loc o o o o o o o o o o o o o b-loc i-loc l-loc o o o b-other i-other i-other l-other o o o b-peop l-peop o o b-org i-org i-org l-org 
+86 : o o o u-peop o o o o o o o o o o o o o o o o u-loc o b-peop l-peop o 
+2339 : o o o o o o b-org l-org o b-peop l-peop o o o o u-peop o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-org i-org i-org l-org o u-loc 
+133 : b-loc l-loc o u-loc o 
+5278 : o o o o b-peop l-peop o o o o o o o o o o o o o o o o b-loc i-loc l-loc 
+3509 : o o o o o o o o o o o o o o b-peop l-peop o u-peop o o o o o b-org l-org o 
+5022 : o o o o o o o o b-loc l-loc o b-peop i-peop l-peop o o o o o o o o o o o o o o o u-peop o o o o 
+131 : b-loc i-loc i-loc l-loc o u-loc o u-loc o 
+5009 : o o o b-peop l-peop o o o o o o o o b-peop i-peop i-peop i-peop i-peop l-peop o 
+4244 : o o o o o o o o o o o o o o o o o u-loc o b-peop l-peop o u-loc o o o o o u-loc o 
+4466 : o o o o o o o o o o o u-loc o b-org i-org l-org o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o o o o u-loc o o o o o o o o 
+1322 : b-peop l-peop o o o o b-org i-org i-org l-org o o o o o o o o o o o o o o o u-org o 
+139 : b-loc i-loc i-loc l-loc o b-loc l-loc o u-loc o 
+1089 : u-peop o o o o o o o b-loc l-loc o o o o o o o o b-loc l-loc o o o b-peop l-peop o o o o u-peop o o o o o o o o o o o o o 
+4596 : o o o o o o b-peop l-peop o o b-org i-org l-org o o o o o o o o o o o o 
+2113 : u-org o b-peop l-peop o o o o o o o o b-org i-org i-org l-org o o o o o o o o o o o o o o o o o o o o o o o o o o o u-org o o o o o o o o o o o o o o o o o o o o o o o o o o b-other i-other l-other o o o 
+1923 : o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o u-loc 
+2857 : o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o o o o o o b-org i-org l-org 
+5019 : b-peop l-peop o o o o o o o o o u-peop o o o o o o o u-loc o o 
+5065 : o o o o o o o b-org i-org l-org o o u-peop o o o o o o o o b-loc l-loc o o b-peop i-peop l-peop o o o o o o o 
+3283 : o o o o o o o o b-loc l-loc b-org i-org i-org i-org l-org o o b-other i-other l-other o o 
+5213 : u-peop o u-peop o o o o o o o o o b-peop i-peop i-peop l-peop o o b-other i-other l-other o u-peop o o o o o o u-peop o o o u-loc o u-other o o o 
+1581 : u-peop o o o b-peop l-peop o o o o o o o u-loc o o u-loc o o o u-peop o o o o o o o o 
+1755 : o o o o o o b-loc i-loc i-loc l-loc o o b-loc l-loc o o b-other l-other o b-other i-other l-other o b-peop i-peop l-peop o o o o o o 
+5066 : o o u-peop o o o o o o o o u-peop o o o o 
+2862 : o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-org i-org i-org l-org o b-peop i-peop l-peop 
+3719 : o o o o o o o o o o o o b-org i-org i-org l-org b-peop l-peop o o u-peop o o o u-loc o o o o o o o u-peop o o o o u-loc o o o o o o o o o u-loc o o o 
+5406 : b-peop i-peop l-peop o o u-loc o o o u-other o o o o o o o o o o o b-loc i-loc i-loc l-loc o o o b-loc l-loc o 
+5399 : b-peop l-peop o o o o o o o o o o o o o o o o u-other o o o o o o o o o o o b-loc i-loc l-loc o 
+2246 : o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o o u-org o o o u-peop o o o o o o o o o o o 
+5255 : o o o b-loc l-loc o b-peop l-peop o o o o o o o o o o o o o o o o o 
+1668 : o o o o o o o b-loc i-loc l-loc o o o o u-loc o o o o o o o o o o o o o u-loc o o o o o 
+1040 : u-loc o b-loc l-loc 
+2877 : u-peop o o o u-loc o o u-loc o o o o u-loc o o o b-org l-org o o o o o o o o o o o o o o 
+511 : u-peop o o o o o o o u-peop o o o o b-loc l-loc o b-peop l-peop o o o o u-peop o 
+1493 : o o o o o o o b-peop l-peop o b-org l-org o o o u-loc o u-loc o 
+4122 : o b-peop l-peop o o u-loc o o o o o o o o o o o o o o b-loc l-loc o o o o o o o o o o o o o o 
+4308 : b-peop i-peop i-peop l-peop o o o o o o o o o o o o o b-loc l-loc o o o o o o o o o o o o o o o u-loc o 
+4590 : u-loc b-org l-org o b-other l-other o 
+981 : o o o o o o o o o o o o o b-org l-org o u-loc o o o o o o o o o o o o o o o o 
+2252 : o o o o o u-peop o o o o o o o o o o o b-org i-org l-org o o o o o b-org i-org i-org l-org o o b-org i-org i-org l-org o o o o o 
+2487 : o u-loc b-peop i-peop l-peop o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-loc l-loc o o o o o 
+4381 : o o o o u-loc o o o o o o u-loc o o o o o o b-other l-other o o o o o o o o o o o o o o o o o o o b-org l-org o 
+5153 : o b-org l-org o o b-peop i-peop l-peop o o o o o o o o o u-peop o o b-peop l-peop o o o u-loc o o o u-other o o o o u-loc o 
+1191 : o u-loc o o o b-peop l-peop o o o o o o o o o o o o o o o o o o o o 
+5035 : o o o o o o o b-peop l-peop o o o o o o b-org l-org o b-peop i-peop l-peop o o o o o 
+4128 : b-peop l-peop o o o o o o o o o o o o o o o o o o o u-loc o o o o o o o b-loc l-loc o o u-other o o o 
+3992 : o o o o o o o u-loc o o o o o o o o b-org l-org o o o o o o o o o o o o o o o b-org l-org o o o o o o o o o o o o o o o o o o o o o o o o o o 
+5217 : o o o o o o o u-peop o o o o o o o o b-org l-org o b-loc l-loc o b-peop i-peop i-peop l-peop o o o o u-peop o o o o b-peop l-peop o 
+5077 : b-peop l-peop o o o o o o o o b-peop i-peop i-peop l-peop o o o o o o o o o o o o o o o o o o o o u-peop o o o o u-loc o 
+4519 : o u-loc b-org l-org o o b-other i-other l-other o o 
+437 : o o o o b-other l-other o o o o o o o b-loc l-loc o o o o o o o o o o o o o o o o b-peop l-peop o o o u-org o o o o o o o o o o o o o 
+5369 : o o o u-org o b-peop l-peop o o o b-loc i-loc l-loc o 
+2754 : o o o o o u-loc o o b-other l-other o o o o o o o o o o b-loc i-loc l-loc o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop 
+3235 : u-org o o b-peop l-peop o u-org o o u-org o o o o o o o o o o o o o o o o 
+5315 : o o o o o o o o o o o o o o o u-loc o o o o o o o b-peop l-peop o o o o u-other o 
+2671 : o o o o o o o o o o o o b-other l-other o o o b-other l-other o o u-loc o u-loc o o o 
+4255 : o u-loc b-org i-org l-org o o o o o o o o o o b-other i-other l-other o o o 
+3028 : u-peop o o o b-org l-org o o o o o o o o o o o o o o o o o o o u-peop o o o o o o o o o o o o o o o o o o u-peop o o o o o o o o o o o u-peop o o o o b-org l-org o o o o o 
+1746 : b-loc l-loc o u-org o 
+5395 : o o o o o o o o o o o b-peop i-peop l-peop o o o o o o o u-peop o o o b-loc l-loc o o o o o o o o o o o o o o u-peop o o o o o 
+3998 : o o b-peop l-peop o o o o o o o b-org l-org 
+5367 : o o o o o o o o o o o o b-loc l-loc o b-peop l-peop o o o o b-loc i-loc i-loc l-loc o 
+1006 : b-peop l-peop o o o o o o o o o o o o o o o u-loc o u-loc o o b-peop i-peop l-peop o o o o o b-other i-other l-other o o o o o o o o o o o 
+3943 : o o o o b-peop i-peop l-peop o u-loc 
+2632 : o o o o o u-org o o o o o o u-loc o o u-loc o o o o o b-other l-other 
+5160 : o o o o o o o o o o o o u-loc o o b-peop l-peop o o o o b-peop i-peop l-peop o o o o o b-peop l-peop o 
+1389 : o o o o o o o o o b-peop l-peop o o o b-org i-org i-org l-org o o o o o o o b-org i-org i-org l-org o o o b-peop i-peop l-peop o o o o o o b-org i-org i-org i-org i-org l-org o o 
+5061 : o o o o o o o o o o u-peop o o o o o o o o u-org o o o o o o o u-peop o 
+5046 : o o o o o o b-peop i-peop l-peop o o o o o o o b-peop l-peop o o o o o o o o o u-other o o o o u-peop o o 
+1271 : o o o o o u-org o o o o o o o o o o o o o o o o o o o o o o o o o u-peop o o o o o o o o u-loc o o u-org o o o o o o o o 
+2283 : o o o o o o o o o o o u-loc o o o o o o o o o o o o u-loc o o o o o o o u-loc o o o o o o o b-org i-org l-org 
+5342 : o o o b-peop l-peop o o o o u-org o o o o o b-loc i-loc i-loc l-loc 
+5368 : b-peop i-peop l-peop o u-other o o o o b-peop l-peop o o o b-loc i-loc l-loc o o o o o o o o o o u-peop o b-peop l-peop o 
+5053 : o o o o o o o u-loc o o o o o o o o o o u-other o o o o o o o o o o b-peop i-peop l-peop o o o o b-peop i-peop i-peop l-peop o o o o o o o o o o o o o o 
+5334 : o o o o o o b-loc l-loc o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o 
+2633 : u-loc o u-org o 
+4147 : o b-loc l-loc b-org l-org o o b-other i-other l-other o o 
+4350 : o o o o o o o o o o o o o o b-org i-org i-org l-org o b-loc l-loc o o o u-loc o u-loc o o o o o o o o o o o u-loc o o o o o o o o b-loc l-loc o 
+4233 : o o o o o o o o o o o o o o o o o o o o o o o o o b-peop i-peop i-peop l-peop o o o o o u-org o 
+3183 : o o o o o o o o u-loc b-org l-org o o b-other i-other l-other o o o o o o o o o 
+1530 : o o b-other l-other o o o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o o b-org l-org 
+5319 : o o o o o b-peop l-peop o o o u-loc o 
+955 : o o o o o o b-other l-other o o o o o o b-peop l-peop o o b-org i-org i-org l-org o 
+2986 : o o o o o o o b-peop l-peop o o o u-loc o o u-loc b-peop l-peop 
+2219 : u-loc o u-loc 
+799 : o o o o o o o o o o o b-peop l-peop o b-org l-org o u-loc o 
+4450 : o o o o o o o u-loc o b-peop i-peop l-peop o o o o o o o o o o o o o o o o o o o u-loc o 
+4311 : o o o o o o u-loc o o o o o o o o b-peop l-peop o 
+3717 : o o o o b-loc l-loc o o o u-peop o o o o b-other l-other o u-loc o o o o o o o o o o o o o o u-loc o o o o o o o o o o o o o o 
+1918 : o b-peop l-peop o o o o o o o o o o o u-loc 
+4108 : o o o o o o o u-loc o o b-peop l-peop o o o o u-loc o o o o b-org i-org l-org o o o o o o o b-org l-org o u-org o o o o o o o o o o o o o o o o o o o o o o o o 
+1452 : b-org l-org o o u-loc o o o 
+2415 : o o o o b-org l-org o o o o o o o o u-org o o o o o o o o o o o o u-loc o o o o 
+2756 : o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o b-org l-org o o 
+1027 : o o o o o o u-loc o b-loc l-loc o o o o o o u-loc o u-loc o o u-loc o o o o o o o o o u-loc o u-loc o o o o o 
+5037 : u-peop o o o o u-other o o o o o o o o o b-loc i-loc l-loc o o o b-peop i-peop l-peop o o o u-org o o o o o o o o o o o o o o o o o o o o o 
+5343 : b-peop l-peop o o o b-loc i-loc l-loc o o b-peop i-peop l-peop o o o o o o o o o o o 
+4203 : o u-loc b-org i-org l-org o o b-other l-other b-other i-other l-other 
+2802 : o o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o o u-org 
+3284 : b-loc l-loc b-org i-org i-org i-org l-org 
+2393 : o b-peop l-peop o u-loc o o o o o o o o o o o o o u-peop o o o o o o o u-org o o o o o o o o o 
+5176 : o o o o b-peop i-peop l-peop o o o o o b-peop l-peop o o o o o o o o b-peop i-peop l-peop o o o o o o o o o o o o o o b-peop l-peop o 
+5321 : o o o o b-peop i-peop l-peop o o o b-loc i-loc l-loc o 
+1701 : o o o o o o u-peop o o o o o o o o o o o o o o b-peop l-peop o u-loc 
+2421 : o o o o o o o o o o u-peop o o o o u-loc o b-peop l-peop o o u-other o o o u-other b-other i-other i-other l-other o o o 
+5188 : o o o b-peop i-peop l-peop o o o o o o o b-peop i-peop l-peop o u-other o o u-other o b-loc i-loc l-loc o o o o o o 
+5208 : b-peop i-peop l-peop o o o o o o o o u-peop o u-other o o o o o o o o o o o o o u-loc o o o o o o o o o o o o b-loc i-loc l-loc o 
+5349 : o o o o o o o o b-loc l-loc o b-peop i-peop l-peop o o o o b-loc i-loc l-loc o 
+5031 : o o o o o o o o b-loc i-loc l-loc o o o o o o b-peop i-peop l-peop o o o o b-peop i-peop l-peop o 
+5329 : o o o o o o b-peop l-peop o o o b-loc i-loc l-loc o 
+3310 : o o o o o o o u-loc b-org l-org o o b-other i-other l-other o o 
+533 : o o o b-other i-other i-other l-other o o o o o o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o o o o b-org l-org o o o o o o 
+3933 : o u-org o o b-peop l-peop o b-peop l-peop o o o o o o o o o o b-org l-org o o o o o o o o o o o o o o o o u-loc o o o o o o o o o o o 
+2574 : u-loc o o o o u-loc o o o o 
+1370 : o b-peop l-peop o o o u-org o o o o o o o o o o u-org o o o o o o o o o o o o u-other o 
+908 : o o o o o o o o o o b-loc l-loc o o o o o o o o o b-peop i-peop l-peop o o u-peop o o o o o o u-loc o b-peop i-peop l-peop o 
+1607 : o o o o o o o o o b-peop i-peop i-peop l-peop o o o o o o b-org i-org l-org o o o o o 
+5115 : u-other o o o u-peop o o o o o b-other l-other o u-org o o o o o b-peop l-peop o o u-peop o o o o o b-org i-org l-org o 
+50 : o u-loc o o o o o u-peop o o o o o o o o u-other o o o o o o o o u-loc o o 
+2969 : u-loc u-org 
+5266 : o o o o o o o o b-loc l-loc o b-peop i-peop l-peop o o o o b-loc i-loc i-loc l-loc o 
+1100 : o o b-org l-org o o b-loc l-loc o o o o o o o o b-peop l-peop o o o o b-peop l-peop o o b-loc l-loc o 
+2464 : b-loc l-loc o u-loc o u-org o 
+589 : o b-other i-other l-other o o o o o b-peop l-peop o o o o o o u-peop o o o o o o u-loc o 
+4275 : o o o o b-org i-org l-org o o o o o o o o o o u-loc o o o o o u-loc o 
+1205 : o o u-loc o o b-loc l-loc o o o o o o o o o o o o o o o o o o 
+5398 : b-peop i-peop l-peop o o o u-other o o o o o b-loc i-loc l-loc o o o o o o o b-loc l-loc o 
+5064 : o o o o o o o b-peop i-peop l-peop o o o o o o o o u-peop o u-loc o u-other o o o o 
+5685 : o o o b-loc l-loc o o o o o o o o o o u-loc o o o o o o o u-loc o o o b-loc l-loc o 
+5377 : o o o o b-peop l-peop o o o b-loc i-loc l-loc 
+5162 : o o o o o o u-other o o b-peop l-peop o o o o o o o o o o b-peop i-peop l-peop o o o o o o o o o o 
+1274 : u-peop o o u-org o o o o o o o b-other i-other i-other l-other o o o o o o o o u-other o o o o o o o o u-other o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+1395 : b-peop l-peop o o o o o o b-org i-org l-org o u-org o o b-org i-org i-org o o o o o o o o o o o o o o o o o b-org i-org i-org o o o o o 
+5127 : o o o o o o o o o u-other o u-other o o o o b-peop i-peop i-peop l-peop o o o o o o o o o u-peop o u-peop 
+2412 : u-peop o o o o o o o o o o b-loc l-loc o u-loc 
+4490 : o o u-org o o b-peop l-peop o 
+70 : u-loc o u-loc o u-org o o b-peop l-peop o b-other i-other l-other o o o o o o o o o o o b-other i-other l-other o 
+4398 : u-loc u-org 
+5081 : o o o b-peop i-peop l-peop o o o u-loc o u-loc o o o o o o o o b-peop i-peop i-peop l-peop o 
+5220 : u-peop o o o o o b-peop l-peop o o o o o o o b-peop l-peop o o o o u-org o o o b-peop l-peop o 
+1065 : o o o o o o o o o o o b-peop l-peop o o o o o o b-loc l-loc o o b-other l-other o o b-loc l-loc o 
+5137 : u-peop o o o o o u-loc o o o o o b-peop i-peop l-peop o o b-org l-org o o o o 
+1895 : b-peop i-peop l-peop o o o o o o o o o o o o o u-other o o o o o o o u-loc o u-loc b-peop l-peop o o o o o o o o o o o o o o o o o o u-loc o u-loc 
+420 : u-peop o o o o o o o b-org i-org i-org l-org o o o o o o o o o o o u-peop o o o o o o o o u-org o o o o u-other o o o o o 
+2436 : b-peop l-peop o o o o o b-org i-org i-org l-org o o o b-other i-other l-other o o o o o o o o o u-org o o o o o o o o o o o o o o o 
+1077 : o o o o o o o o o o o o o o o o o o o o o b-org i-org l-org o b-loc l-loc o b-loc l-loc o o u-org o b-peop l-peop o 
+1204 : u-loc o o o o b-peop i-peop l-peop o o o o u-other o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+3825 : o u-loc b-org i-org i-org i-org l-org o o b-other l-other b-other i-other l-other 
+1877 : o o o o u-loc o o o o o b-loc l-loc o 
+5389 : o o o o b-peop l-peop o o o u-loc o 
+1468 : o o o o o o o o o o o o o o o o o o o o o o o o o o b-org l-org o o b-peop l-peop 
+838 : b-org i-org l-org o b-peop l-peop o o o o o o u-other o o o o o o o o o o o o o u-other o b-loc l-loc o b-loc l-loc o 
+5079 : o o o o o o o o o o o o b-org i-org i-org l-org o o o o o o o b-peop i-peop l-peop o o o o o o b-peop l-peop o 
+1465 : b-loc l-loc o u-loc 
+4250 : o o o o o o o o o o o o o o o b-peop l-peop o o o b-loc i-loc l-loc o u-loc o 
+3153 : o u-org o b-org i-org l-org o o o b-peop l-peop o b-org l-org o o o b-other l-other o o o b-peop l-peop o b-org l-org o o o o o o o o o o b-org l-org o o o o o o o o o o o o o o o o o o o o o o o o o o o b-org l-org o b-peop l-peop o o o u-org o o b-other l-other o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+1279 : o o o o o b-org l-org o o o o o u-peop o o o o o o o o o u-loc o o o b-peop l-peop o o o o o o o b-org l-org o b-other l-other o o o o o o o o o o o 
+3801 : o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o o o b-org i-org l-org o o o o o o o o o o o u-org o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o o o o o o o o o o o o o o o o 
+4161 : o o o o o o o o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o o o o u-loc o b-other l-other o o o o 
+4152 : o o o o o o b-org i-org l-org o b-other l-other o o o o o o o u-loc o o u-org o b-org i-org l-org o o b-peop i-peop l-peop o o o o o b-other l-other o o o o o 
+3245 : b-loc l-loc u-org 
+3482 : b-peop l-peop o o o o o o o b-org l-org o o b-org i-org i-org l-org o o u-peop o o o o o o o 
+3884 : o u-loc u-org o o b-other l-other b-other i-other l-other 
+5333 : b-peop l-peop o o u-other o o o b-loc l-loc o o o o u-loc o o o o o o o 
+1374 : b-loc l-loc o u-org o 
+2951 : u-org o o o o b-other l-other o u-loc u-org o o b-other l-other b-other i-other l-other 
+1361 : o o o o o o u-loc o o o o o o o o b-peop l-peop o o b-org l-org o o o o o o o o o o 
+5244 : o o o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o o o b-peop l-peop o b-peop i-peop l-peop o o o u-other o o u-loc o u-other o o o 
+1440 : u-loc o b-loc l-loc 
+5007 : u-peop o o o o u-loc o o b-org i-org i-org l-org o o o o o o u-other o o o o o o u-peop o 
+1024 : o o o o o o o o o o o o o o o o b-loc l-loc o b-loc l-loc o u-loc o o o o o o o o o o o o o 
+5311 : o o o o o o o o b-loc l-loc o b-peop l-peop o o o o b-loc i-loc l-loc o o o o o o o o o o b-loc l-loc o u-loc o 
+5090 : u-peop o o b-other l-other o o o o o o u-peop o o o o o o o o o o u-loc o o o o o o o o o o 
+5111 : b-peop i-peop l-peop o o o o o o o o o o o o o b-peop i-peop i-peop l-peop o o o b-org l-org o o o 
+1618 : o b-org i-org i-org i-org l-org o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop 
+3011 : o o o u-loc o b-other l-other o o o o o b-org i-org i-org i-org i-org i-org i-org i-org i-org i-org i-org i-org l-org o u-org o o o u-loc o o o o o o o o o u-loc o u-loc o u-loc o o b-loc i-loc i-loc l-loc o 
+536 : o o o o o o o o o o b-peop l-peop o o o o u-org o o o o b-other l-other o o o o b-peop l-peop o o o u-org o o o o u-other o o 
+5363 : o o o b-peop l-peop o o o b-loc i-loc l-loc 
+4476 : o o o o o o u-loc o o o o o o o o o o o b-org i-org l-org o o u-loc o o o o o u-loc o o o o o o o 
+3715 : u-peop o o o b-other l-other o u-loc o o o o o o u-loc o o o o o o b-loc l-loc o u-loc o o u-loc o o o o o o o 
+3749 : o o o o o o o o o o o o o o o o o o o o o b-other i-other l-other o o o o o b-org i-org i-org l-org o u-org o o u-loc o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+5011 : b-peop i-peop l-peop o o o o o o o o o o b-loc l-loc o o o o o o o o o u-peop o o o o o o o u-other o o o o 
+350 : b-peop l-peop o o o o o o o o o o o o o o o o o o o u-loc o o o o o o o o o o o o o o o o o o o o o o o o 
+3151 : u-loc b-org l-org 
+282 : u-loc o o o o o b-peop i-peop l-peop o o o o o o o o o o o o o o o o 
+5179 : o b-peop i-peop l-peop o o o b-peop l-peop o o o o o o o o o o o 
+3506 : b-peop i-peop l-peop o o o o o b-org i-org i-org l-org o o u-loc o o o o o o o u-org o o o u-loc o o o o o o o o o o o o u-loc o o 
+429 : o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o b-org i-org i-org l-org o o o o o b-org i-org l-org o o o o o o o o o o 
+975 : o o o o o o o o o o o o o o b-loc l-loc o o o o u-loc o o o b-other i-other i-other l-other o o o o o o o o b-other i-other i-other l-other o 
+5197 : o o o o o o b-peop l-peop o o o o b-peop l-peop o 
+1356 : u-org o o o o o o o o o o b-loc l-loc o o o o o o o o o o o o o o o o u-org o u-org o o o o o o o o o o o o o o o o o o 
+5094 : o o o o o o o o u-loc o b-peop i-peop l-peop o o o o o o o o o b-peop i-peop i-peop i-peop l-peop o 
+5033 : o o o o o o o o o b-other l-other o u-loc o u-peop o o o o o o o o o b-peop l-peop o 
+3912 : u-loc b-org l-org 
+1827 : o o o o o o o o o u-loc o o o o o o o o o o o o o o o o o o o o o o o u-loc o o u-loc o b-loc l-loc 
+5049 : o o o b-peop i-peop l-peop o o o o b-peop l-peop o o o o 
+587 : o o o o o u-loc o u-loc o o o o b-other l-other o o o o o o o o o o 
+5051 : o o o o b-peop l-peop o o o u-other o o o o o o o o u-loc o o o o o b-peop i-peop i-peop i-peop i-peop i-peop l-peop o u-loc o u-other o o o o 
+4139 : o u-loc u-org o o b-other l-other b-other i-other l-other o o o o o 
+5416 : o o o o o o o o b-peop l-peop o o o o u-peop o o o o o o o o o o u-loc o o o 
+5297 : o o o o o o o o b-loc l-loc o b-peop i-peop l-peop o o o o b-loc i-loc l-loc o 
+2571 : u-loc o u-loc o u-org o 
+3902 : o o o o o o b-peop l-peop o u-loc o o u-org o b-org l-org o o o o o o o o o o o o o o o o 
+1864 : o o o o o o o o o o o o o o u-loc o u-loc o o u-loc o o o o 
+1989 : o o o b-loc l-loc o o b-loc l-loc o o o o o o o o o o o o 
+5338 : b-peop i-peop l-peop o o o o o o b-loc l-loc o o o o b-loc i-loc i-loc l-loc o o o o 
+145 : b-loc i-loc i-loc l-loc o u-loc o 
+2159 : u-loc o o o o o o o o o o o b-loc i-loc l-loc o o o o o o o o o o o o o o b-other i-other i-other l-other 
+183 : b-loc l-loc o b-loc l-loc 
+1905 : u-loc o u-loc o u-org o 
+565 : o b-org i-org l-org o o o u-peop o o o o o o o o o u-peop o o o o o o o o o o b-loc l-loc o o 
+3335 : o o o o o o o b-loc l-loc b-org l-org o o b-other i-other l-other o o 
+83 : o o o o o b-other i-other i-other i-other i-other i-other i-other i-other i-other i-other i-other l-other o o o o o o o o u-other o o o u-org o o o o o u-peop o o u-loc o o o o o o o u-other o o u-other o 
+2540 : o o o o o o o o o o o o o o o o o o o o o o o o b-org i-org l-org o b-peop l-peop o 
+5113 : o o o o o o o o o o o o u-loc o o b-peop l-peop o o o o b-peop i-peop l-peop o o o o o b-peop l-peop o 
+1858 : o u-loc o o o o o o o o o o o o o o o o o o b-peop l-peop o o b-org l-org 
+5123 : o o b-peop l-peop o b-peop l-peop o b-peop i-peop i-peop i-peop l-peop o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o o 
+1348 : o o o o o o o o o o o o o o o o o u-other o o o o b-peop i-peop l-peop o b-org l-org o o o o o o o o 
+2348 : o o o o o o o o o o u-loc o b-peop i-peop l-peop o o o o o o u-loc o o o o u-loc o o o b-other l-other o o o o o o o o o o o o o o o o o o u-loc o b-loc l-loc o b-loc l-loc o o o o o o o o o o o o o o o o 
+4316 : o o o u-loc o b-other l-other o u-org o o o b-org l-org o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o u-loc o o o o o 
+5357 : o o o o b-peop l-peop o o o u-loc o 
+1068 : o o o b-loc i-loc i-loc i-loc l-loc o b-loc l-loc o o o o o o o o o o o o o o 
+2584 : o o o o o o o o o o o o o o o o o o o o o o o o o u-loc o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o o o o b-org i-org l-org o o b-org i-org l-org o o o o o o 
+2111 : o o o u-loc o o b-peop l-peop o o o o o b-org i-org i-org l-org o o o o 
+2518 : u-org o o o u-loc o o o o o o o o b-org i-org i-org i-org l-org 
+5400 : b-peop i-peop l-peop o o o o o o u-other o o o o b-loc i-loc l-loc o o o o o o o o o o o o b-org i-org i-org l-org o o b-loc i-loc l-loc o b-loc i-loc l-loc o o o o o o 
+1393 : b-peop i-peop l-peop o o b-loc l-loc o o b-org i-org i-org o o o o o o o o o o o o o o o o o o o o o o 
+5104 : o o o o o o o o o b-other l-other o u-loc o u-peop o o o o o o o o o b-peop l-peop o 
+3886 : o o u-org o b-peop l-peop o 
+302 : o u-peop o o o b-org l-org o o o o o o o o u-loc o o 
+286 : u-loc o o o o o b-peop i-peop l-peop o o o o o 
+2454 : u-loc o u-loc 
+5205 : u-other o u-other o o u-other o o o o o o o o o o o o o o o o u-other o o o o b-peop l-peop o o o b-other l-other o o o o b-peop i-peop l-peop o o o o o o b-peop i-peop i-peop l-peop o o o 
+510 : b-loc l-loc o b-peop i-peop i-peop l-peop o o b-other l-other o o o o o o b-peop l-peop o o o o b-loc l-loc o 
+3861 : o o o o b-org i-org l-org o o o o o o o o o o o o o o o o b-other i-other i-other l-other o u-loc o o o o o o o u-loc o o o b-loc l-loc o o o o o o o o u-loc o o u-peop o o o o o o o u-other o o o o o o o o o o o o o b-loc l-loc o u-peop o o o o o o 
+2660 : o o o o o o o b-peop l-peop o o o o o o o o o u-loc o o 
+2602 : o o o o o o b-org l-org o u-loc o o o o o o o o u-other o o o 
+3108 : o o o o o o o o o o o o o u-loc b-org l-org o o b-other i-other l-other o o 
+2873 : u-peop o o o o o o o b-org i-org i-org i-org i-org l-org o o o o o u-other o o o o o o o o o o o o o o o 
+2260 : o o o o o o u-org o o o o o o o o o o o o o o o o o o o b-peop l-peop 
+3804 : o u-loc u-org o o b-other i-other l-other o o 
+5404 : b-peop l-peop o o o o o o u-other o o o o o b-loc l-loc o 
+5082 : o o o o o o o o o u-other o u-other o o o o b-peop i-peop i-peop l-peop o o o o o o o o o u-peop o u-peop o 
+5039 : u-peop o o o o b-peop i-peop l-peop o o u-loc o u-other o o o 
+5373 : o o o o b-peop l-peop o o o o b-loc i-loc l-loc o 
+643 : u-peop o o o o o u-loc b-org i-org i-org l-org o o o u-loc o o o o o o 
+5178 : b-peop i-peop l-peop o o o b-peop l-peop o o o o o 
+5396 : o o u-loc o o o o o o o b-peop l-peop o o o o o o o o u-loc o o o o o o o o b-other i-other l-other o 
+3362 : o o o b-peop l-peop o b-loc l-loc o o 
+5921 : o o u-loc o o b-loc l-loc o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+1523 : o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o o o u-org o o o o o 
+5570 : o o o o o o o o o b-other i-other l-other o b-other l-other o o o o o o o o u-loc o o o o o o b-loc l-loc o o o o o u-loc 
+582 : o o o o o o o o o o o o o o o o o o o o o o o o u-loc o o o o o o o u-loc o o o o u-loc o 
+4565 : o u-loc b-org l-org o o b-other i-other l-other o o 
+5050 : o b-org l-org o u-peop o o o o u-peop o 
+1750 : o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o b-org i-org l-org o o o o o o o u-other o o o o o o 
+5132 : o b-peop i-peop l-peop o u-peop o o o o o o o o o o o o o o o o o 
+5386 : o o o o o o o o o o o o o u-org o b-peop i-peop l-peop o o o o b-loc i-loc l-loc 
+2850 : o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop l-peop o o o b-org i-org l-org o o o o o o o o o o o o o o o o o o o o o o o o o 
+3085 : o o o o o o u-loc o o o o o o o u-loc o o o o o o o o o o o o o o o 
+2017 : b-peop i-peop l-peop o o o o b-peop l-peop o o o o o o b-other i-other l-other o o u-loc o o o b-loc l-loc o o b-peop l-peop o o o o o o 
+88 : o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o u-loc o o o o o o u-loc o o o o o o o o o 
+929 : o o o o o o o o o o o o o o o o o o o o o o o b-loc l-loc o o u-org o o o 
+652 : b-loc l-loc b-org l-org o b-peop l-peop o o o b-loc l-loc o o o o o o o o o o o o o o o o o 
+135 : b-loc i-loc i-loc l-loc o u-loc o u-loc o 
+5005 : o o o u-other o o o o o u-other o u-other o o o o b-peop i-peop i-peop l-peop o o o o o o o o o u-peop o u-peop o 
+5182 : o b-org l-org o o o o o o b-peop l-peop o o o b-peop i-peop l-peop o o o o o o o o o o o o o o o o o o o o u-other o o o o o o b-peop i-peop l-peop o o b-other l-other o o o o o o o o o o b-peop l-peop o o o 
+2582 : o o o o u-loc o u-loc o o o o u-loc u-loc o o o o o o o o o o o o o o 
+5302 : o o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o b-org i-org i-org i-org i-org l-org o b-peop l-peop o o o u-loc o o o o o b-loc i-loc l-loc o 
+5210 : o o o o o b-other l-other o o o o o o o o o o o b-org i-org i-org l-org o o o b-peop i-peop l-peop o o o o o u-peop o 
+60 : u-peop o o o o o o o b-peop i-peop l-peop o o o o o o o o o o o o o o o o b-org l-org o o o o o o o b-loc i-loc l-loc o o b-peop l-peop o o o o u-org o o o o 
+5230 : b-peop l-peop o u-peop o o o o b-peop i-peop l-peop o o o o o u-peop o o u-loc o o o 
+1214 : b-peop l-peop o o o o o u-org o u-other o 
+5353 : o o o o o o o o b-loc l-loc o b-peop l-peop o o o o b-loc i-loc l-loc o 
+5385 : o u-loc o o u-peop o o o o u-loc o o o o b-peop l-peop o o o o o o b-other l-other o o o o o o o o u-org 
+2879 : u-loc o o b-peop l-peop o o o o o u-peop o o 
+659 : o b-other i-other l-other o o o b-loc l-loc o o o o o o o o o o o o o o o o o b-loc l-loc o 
+954 : o o o o o o b-loc i-loc l-loc o o o b-other i-other i-other l-other o o o o o o o o o o o b-peop l-peop o o o o o u-loc o 
+4385 : o o o o o b-org i-org l-org o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o o o o o u-loc o 
+1117 : b-loc l-loc b-org l-org o b-peop l-peop o o b-peop l-peop o o b-other i-other l-other o o o b-peop l-peop o o o o o o o o o o o o o o o 
+4390 : o u-loc b-org i-org l-org o o b-other l-other b-other i-other l-other 
+5381 : o o o o b-peop l-peop o o o b-loc i-loc l-loc 
+5028 : o o o b-peop i-peop l-peop o o o o o o b-peop l-peop o u-peop o o b-loc i-loc l-loc o o o o u-other o 
+5269 : o o o o o o o o o o b-loc l-loc o o b-peop l-peop o o o o u-loc o o o u-loc o 
+5332 : o o o o b-peop l-peop o o o o o o o u-other o o o o b-loc l-loc o o o o o o o o o b-peop l-peop o 
+1253 : u-org o b-peop l-peop o o o o o b-org i-org i-org l-org o o o o o o o o o o o o o o o o o o o o o o o u-org o o 
+4278 : o o o o o o b-loc l-loc o o o o o o b-loc l-loc o o u-loc o u-loc o 
+3305 : o o o o o o o o o o b-loc l-loc o b-loc l-loc o u-other o o 
+650 : u-loc o b-loc l-loc o u-org o 
+5273 : o o o o b-peop l-peop o o o b-loc i-loc i-loc l-loc 
+2939 : o o o b-org i-org i-org i-org i-org i-org l-org o u-org o o o o o o o o o o o o o o o o o o o o o o o o o o o b-peop i-peop l-peop o o o o b-loc l-loc o 
+600 : o o u-peop o o o o b-org l-org o o o o o o o o o o o o o o o o o o b-peop l-peop o o o o o o o o o o o o o o o o o 
+5306 : o o o o o o o o o o o o o b-loc l-loc o b-peop i-peop l-peop o o o o b-loc i-loc l-loc o o o o b-peop i-peop l-peop o o b-loc i-loc l-loc o o o o o o o 
+1002 : o o o o o o o o o o o u-loc o o o o o o o o o o o u-org o o o o o b-org i-org i-org i-org l-org o o o o o o 
+5514 : o o o o u-other o u-loc o o u-loc o o b-other l-other o o o o o o o o o o o o o o 
+1250 : o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o b-org i-org l-org o b-peop l-peop o 
+3781 : u-loc u-org 
+3503 : o o o b-org l-org o o o u-org o u-loc o u-peop o o o o o o o o o o o 
+985 : b-org i-org i-org l-org o o o o u-loc o o o o o o o o o o o u-loc o b-peop l-peop o o o o o o o o o o o o o o o o o o o o u-loc o o 
+5305 : o o o o o o o b-peop l-peop o o o o o o b-loc l-loc o o o o b-loc i-loc i-loc l-loc o 
+5206 : u-other o u-other o o u-other o o o o o o o o o o o o o o o o u-other o o o o b-peop l-peop o o o b-other l-other o o o o b-peop i-peop l-peop o o o o o o b-peop i-peop i-peop l-peop o o o 
+675 : b-loc l-loc o b-loc l-loc 
+3025 : o o o o o o o o u-peop o o o o u-peop o u-peop o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o u-peop o o o o u-peop o o o u-peop o o o u-loc o o o o o o o o o o o o o o 
+105 : o o b-peop l-peop o o o o b-org i-org l-org o u-loc o o o o o o o o o o o o o o o o o o o u-other o 
+3764 : o o o o o u-loc b-org l-org o o b-other i-other l-other o o o o 
+5239 : o o o o b-peop i-peop l-peop o o o b-peop l-peop o b-peop l-peop o o o o o o o o o o o o o o o o o o o o o o u-other o o o o o o u-other o o 
+5352 : o o o o b-peop l-peop o o o b-loc i-loc l-loc o 
